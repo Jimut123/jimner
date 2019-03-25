@@ -5,6 +5,10 @@ A BANNER PROTOTYPE FOR CLI/UNIX/LINUX
 
 Better than *Pyfiglet*, because this uses JSON portable data !
 
+The advantage of this data is you can take this and make a API for any language!
+
+Note: All the scripts are automated!
+
 
 
 
