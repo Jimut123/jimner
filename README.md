@@ -1,7 +1,11 @@
 # JIMNER
 
 
-BANNER PROTOTYPE FOR CLI/UNIX/LINUX
+A BANNER PROTOTYPE FOR CLI/UNIX/LINUX
+
+Better than *Pyfiglet*, because this uses JSON portable data !
+
+
 
 
 ```
@@ -2166,3 +2170,8 @@ X992 =>
 Zodi => 
 
 ```
+
+Credits :
+
+* [patorJK](http://patorjk.com/software/taag/#p=display&h=0&v=0&f=Old%20Banner&t=WISP)
+* [pyfiglet](https://github.com/pwaller/pyfiglet)
