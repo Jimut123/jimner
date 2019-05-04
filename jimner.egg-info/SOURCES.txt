@@ -1,3 +1,4 @@
+MANIFEST.in
 README.md
 setup.py
 jimner/__init__.py
@@ -7,3 +8,321 @@ jimner.egg-info/SOURCES.txt
 jimner.egg-info/dependency_links.txt
 jimner.egg-info/requires.txt
 jimner.egg-info/top_level.txt
+jimner/fonts/1Row.json
+jimner/fonts/3-D.json
+jimner/fonts/3D Diagonal.json
+jimner/fonts/3D-ASCII.json
+jimner/fonts/3x5.json
+jimner/fonts/4Max.json
+jimner/fonts/5 Line Oblique.json
+jimner/fonts/AMC 3 Line.json
+jimner/fonts/AMC 3 Liv1.json
+jimner/fonts/AMC AAA01.json
+jimner/fonts/AMC Neko.json
+jimner/fonts/AMC Razor.json
+jimner/fonts/AMC Razor2.json
+jimner/fonts/AMC Slash.json
+jimner/fonts/AMC Slider.json
+jimner/fonts/AMC Thin.json
+jimner/fonts/AMC Tubes.json
+jimner/fonts/AMC Untitled.json
+jimner/fonts/ANSI Shadow.json
+jimner/fonts/ASCII New Roman.json
+jimner/fonts/Abraxis-Big.json
+jimner/fonts/Abraxis-Small.json
+jimner/fonts/Acrobatic.json
+jimner/fonts/Alligator.json
+jimner/fonts/Alligator2.json
+jimner/fonts/Alpha.json
+jimner/fonts/Alphabet.json
+jimner/fonts/Arrows.json
+jimner/fonts/Avatar.json
+jimner/fonts/Banner.json
+jimner/fonts/Banner3-D.json
+jimner/fonts/Banner3.json
+jimner/fonts/Banner4.json
+jimner/fonts/Barbwire.json
+jimner/fonts/Basic.json
+jimner/fonts/Bear.json
+jimner/fonts/Bell.json
+jimner/fonts/Benjamin.json
+jimner/fonts/Bent.json
+jimner/fonts/Big Chief.json
+jimner/fonts/Big Money-ne.json
+jimner/fonts/Big Money-nw.json
+jimner/fonts/Big Money-se.json
+jimner/fonts/Big Money-sw.json
+jimner/fonts/Big.json
+jimner/fonts/Bigfig.json
+jimner/fonts/Binary.json
+jimner/fonts/Blest.json
+jimner/fonts/Block.json
+jimner/fonts/Blocks.json
+jimner/fonts/Bloody.json
+jimner/fonts/Boie.json
+jimner/fonts/Boie2.json
+jimner/fonts/Bolger.json
+jimner/fonts/Bone's Font.json
+jimner/fonts/Braced.json
+jimner/fonts/Bright.json
+jimner/fonts/Broadway KB.json
+jimner/fonts/Broadway.json
+jimner/fonts/Bubble.json
+jimner/fonts/Bulbhead.json
+jimner/fonts/CaMiZ.json
+jimner/fonts/Caligraphy.json
+jimner/fonts/Caligraphy2.json
+jimner/fonts/Calvin S.json
+jimner/fonts/Cards.json
+jimner/fonts/Catwalk.json
+jimner/fonts/CeA.json
+jimner/fonts/CeA2.json
+jimner/fonts/Cheese.json
+jimner/fonts/Chiseled.json
+jimner/fonts/Chunky.json
+jimner/fonts/Coinstak.json
+jimner/fonts/Cola.json
+jimner/fonts/Colossal.json
+jimner/fonts/Computer.json
+jimner/fonts/Contessa.json
+jimner/fonts/Contrast.json
+jimner/fonts/Cosmike.json
+jimner/fonts/Crawford.json
+jimner/fonts/Crawford2.json
+jimner/fonts/Crazy.json
+jimner/fonts/Cricket.json
+jimner/fonts/Cursive.json
+jimner/fonts/Cyberlarge.json
+jimner/fonts/Cybermedium.json
+jimner/fonts/Cybersmall.json
+jimner/fonts/Cygnet.json
+jimner/fonts/DANC4.json
+jimner/fonts/DWhistled.json
+jimner/fonts/DaiR.json
+jimner/fonts/Dancing Font.json
+jimner/fonts/Decimal.json
+jimner/fonts/Def Leppard.json
+jimner/fonts/Delta Corps Priest 1.json
+jimner/fonts/Diamond.json
+jimner/fonts/Diet Cola.json
+jimner/fonts/Digital.json
+jimner/fonts/Doh.json
+jimner/fonts/Doom.json
+jimner/fonts/Dot Matrix.json
+jimner/fonts/Double Shorts.json
+jimner/fonts/Double.json
+jimner/fonts/Dr Pepper.json
+jimner/fonts/Efti Chess.json
+jimner/fonts/Efti Font.json
+jimner/fonts/Efti Italic.json
+jimner/fonts/Efti Piti.json
+jimner/fonts/Efti Robot.json
+jimner/fonts/Efti Wall.json
+jimner/fonts/Efti Water.json
+jimner/fonts/Electronic.json
+jimner/fonts/Elite.json
+jimner/fonts/Epic.json
+jimner/fonts/Fender.json
+jimner/fonts/Filter.json
+jimner/fonts/Filth.json
+jimner/fonts/Fire Font-k.json
+jimner/fonts/Fire Font-s.json
+jimner/fonts/Flipped.json
+jimner/fonts/Flower Power.json
+jimner/fonts/FoGG.json
+jimner/fonts/Four Tops.json
+jimner/fonts/Fraktur.json
+jimner/fonts/Fun Face.json
+jimner/fonts/Fun Faces.json
+jimner/fonts/Fuzzy.json
+jimner/fonts/Galactus.json
+jimner/fonts/Georgi16.json
+jimner/fonts/Georgia11.json
+jimner/fonts/Ghost.json
+jimner/fonts/Ghoulish.json
+jimner/fonts/Glenyn.json
+jimner/fonts/Glue.json
+jimner/fonts/Goofy.json
+jimner/fonts/Gothic.json
+jimner/fonts/Graceful.json
+jimner/fonts/Gradient.json
+jimner/fonts/Graffiti.json
+jimner/fonts/Greek.json
+jimner/fonts/HeX's Font.json
+jimner/fonts/Heart Left.json
+jimner/fonts/Heart Right.json
+jimner/fonts/Hellfire.json
+jimner/fonts/Henry 3D.json
+jimner/fonts/Hex.json
+jimner/fonts/Hieroglyphs.json
+jimner/fonts/Hollywood.json
+jimner/fonts/Horizontal Left.json
+jimner/fonts/Horizontal Right.json
+jimner/fonts/ICL-1900.json
+jimner/fonts/Impossible.json
+jimner/fonts/Invita.json
+jimner/fonts/Isometric1.json
+jimner/fonts/Isometric2.json
+jimner/fonts/Isometric3.json
+jimner/fonts/Isometric4.json
+jimner/fonts/Italic.json
+jimner/fonts/Ivrit.json
+jimner/fonts/JS Block Letters.json
+jimner/fonts/JS Bracket Letters.json
+jimner/fonts/JS Capital Curves.json
+jimner/fonts/JS Cursive.json
+jimner/fonts/JS Stick Letters.json
+jimner/fonts/Jacky.json
+jimner/fonts/Jazmine.json
+jimner/fonts/Jerusalem.json
+jimner/fonts/Katakana.json
+jimner/fonts/Kban.json
+jimner/fonts/Keyboard.json
+jimner/fonts/Knob.json
+jimner/fonts/LCD.json
+jimner/fonts/Larry 3D.json
+jimner/fonts/Lean.json
+jimner/fonts/Letters.json
+jimner/fonts/Lil Devil.json
+jimner/fonts/Line Blocks.json
+jimner/fonts/Linux.json
+jimner/fonts/Lockergnome.json
+jimner/fonts/Madrid.json
+jimner/fonts/Marquee.json
+jimner/fonts/Maxfour.json
+jimner/fonts/MeDi.json
+jimner/fonts/Mer.json
+jimner/fonts/Merlin1.json
+jimner/fonts/Merlin2.json
+jimner/fonts/Mike.json
+jimner/fonts/Mini.json
+jimner/fonts/Mirror.json
+jimner/fonts/Mnemonic.json
+jimner/fonts/Modular.json
+jimner/fonts/Morse.json
+jimner/fonts/Moscow.json
+jimner/fonts/Mshebrew210.json
+jimner/fonts/Muzzle.json
+jimner/fonts/NScript.json
+jimner/fonts/NT Greek.json
+jimner/fonts/NV Script.json
+jimner/fonts/Nancyj-Fancy.json
+jimner/fonts/Nancyj-Underlined.json
+jimner/fonts/Nancyj.json
+jimner/fonts/Nipples.json
+jimner/fonts/O8.json
+jimner/fonts/OS2.json
+jimner/fonts/Octal.json
+jimner/fonts/Ogre.json
+jimner/fonts/Old Banner.json
+jimner/fonts/Patorjk's Cheese.json
+jimner/fonts/Patorjk-HeX.json
+jimner/fonts/Pawp.json
+jimner/fonts/Peaks Slant.json
+jimner/fonts/Peaks.json
+jimner/fonts/Pebbles.json
+jimner/fonts/Pepper.json
+jimner/fonts/Poison.json
+jimner/fonts/PsY.json
+jimner/fonts/PsY2.json
+jimner/fonts/Puffy.json
+jimner/fonts/Puzzle.json
+jimner/fonts/Pyramid.json
+jimner/fonts/Rammstein.json
+jimner/fonts/Rectangles.json
+jimner/fonts/Reeko Font 1.json
+jimner/fonts/Relief.json
+jimner/fonts/Relief2.json
+jimner/fonts/Reverse.json
+jimner/fonts/Ribbit.json
+jimner/fonts/Ribbit2.json
+jimner/fonts/Ribbit3.json
+jimner/fonts/Roman.json
+jimner/fonts/Rotated.json
+jimner/fonts/Rounded.json
+jimner/fonts/Rowan Cap.json
+jimner/fonts/Rozzo.json
+jimner/fonts/Runic.json
+jimner/fonts/Runyc.json
+jimner/fonts/S Blood.json
+jimner/fonts/SL Script.json
+jimner/fonts/Santa Clara.json
+jimner/fonts/Script.json
+jimner/fonts/Serifcap.json
+jimner/fonts/Shadow.json
+jimner/fonts/Shimrod.json
+jimner/fonts/Short.json
+jimner/fonts/Slant Relief.json
+jimner/fonts/Slant.json
+jimner/fonts/Slide.json
+jimner/fonts/Small Caps.json
+jimner/fonts/Small Isometric1.json
+jimner/fonts/Small Keyboard.json
+jimner/fonts/Small Poison.json
+jimner/fonts/Small Script.json
+jimner/fonts/Small Shadow.json
+jimner/fonts/Small Slant.json
+jimner/fonts/Small Tengwar.json
+jimner/fonts/Small.json
+jimner/fonts/Soft.json
+jimner/fonts/Sony.json
+jimner/fonts/Speed.json
+jimner/fonts/Spliff.json
+jimner/fonts/Stacey.json
+jimner/fonts/Stampate.json
+jimner/fonts/Stampatello.json
+jimner/fonts/Standard.json
+jimner/fonts/Star Strips.json
+jimner/fonts/Star Wars.json
+jimner/fonts/Stellar.json
+jimner/fonts/Stforek.json
+jimner/fonts/Stick Letters.json
+jimner/fonts/Stop.json
+jimner/fonts/Straight.json
+jimner/fonts/Stronger Than All.json
+jimner/fonts/Sub-Zero.json
+jimner/fonts/Swamp Land.json
+jimner/fonts/Swan.json
+jimner/fonts/Sweet.json
+jimner/fonts/THIS.json
+jimner/fonts/TRaC Mini.json
+jimner/fonts/TRaC Tiny.json
+jimner/fonts/TRaC's Old School Font.json
+jimner/fonts/TRaC.json
+jimner/fonts/Tanja.json
+jimner/fonts/Tengwar.json
+jimner/fonts/Term.json
+jimner/fonts/Test1.json
+jimner/fonts/The Edge.json
+jimner/fonts/Thick.json
+jimner/fonts/Thin.json
+jimner/fonts/Thorned.json
+jimner/fonts/Three Point.json
+jimner/fonts/Ticks Slant.json
+jimner/fonts/Ticks.json
+jimner/fonts/Tiles.json
+jimner/fonts/Tinker-Toy.json
+jimner/fonts/Tombstone.json
+jimner/fonts/Train.json
+jimner/fonts/Trek.json
+jimner/fonts/Tsalagi.json
+jimner/fonts/Tubular.json
+jimner/fonts/Twiggy.json
+jimner/fonts/Twisted.json
+jimner/fonts/Two Point.json
+jimner/fonts/USA Flag.json
+jimner/fonts/Univers.json
+jimner/fonts/Varsity.json
+jimner/fonts/Wavy.json
+jimner/fonts/Weird.json
+jimner/fonts/Wet Letter.json
+jimner/fonts/Whimsy.json
+jimner/fonts/Wow.json
+jimner/fonts/X-Pose.json
+jimner/fonts/X99.json
+jimner/fonts/X992.json
+jimner/fonts/Zodi.json
+jimner/fonts/data.json
+jimner/fonts/test.json
+jimner/fonts/test_m.json
+jimner/fonts/test_m1.json

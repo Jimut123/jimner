@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="jimner",
-    version="1.0.0",
+    version="1.1",
     author="Jimut Bahan Pal",
     author_email="jimutbahanpal@yahoo.com",
     description="A banner generating library for UNIX, LINUX, MAC-OS and WINDOWS",
