@@ -15,13 +15,16 @@ Note:
 * A total of 314 fonts are present!
 
 
-<b><a href="jimner/fonts/1Row.js" alt="1Row" target="_blank">1Row</a></b>
+
+## Fonts
+
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/1Row.json" alt="1Row" target="_blank">1Row</a></b>
 <pre>
 _T  |  |\/|  |_|  ~|~  
                        
 
 </pre>
-<b><a href="jimner/fonts/3-D.js" alt="3-D" target="_blank">3-D</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/3-D.json" alt="3-D" target="_blank">3-D</a></b>
 <pre>
       **  **                          **   
      /** //                          /**   
@@ -33,7 +36,7 @@ _T  |  |\/|  |_|  ~|~
  /////   //  ///  //  //   //////     //   
 
 </pre>
-<b><a href="jimner/fonts/3D Diagonal.js" alt="3D Diagonal" target="_blank">3D Diagonal</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/3D Diagonal.json" alt="3D Diagonal" target="_blank">3D Diagonal</a></b>
 <pre>
                                                                             
          ,---._                                                             
@@ -53,7 +56,7 @@ _T  |  |\/|  |_|  ~|~
                                                                             
 
 </pre>
-<b><a href="jimner/fonts/3D-ASCII.js" alt="3D-ASCII" target="_blank">3D-ASCII</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/3D-ASCII.json" alt="3D-ASCII" target="_blank">3D-ASCII</a></b>
 <pre>
     ___       ___       _____ ______        ___  ___       _________    
    |\  \     |\  \     |\   _ \  _   \     |\  \|\  \     |\___   ___\  
@@ -67,7 +70,7 @@ _T  |  |\/|  |_|  ~|~
                                                                         
 
 </pre>
-<b><a href="jimner/fonts/3x5.js" alt="3x5" target="_blank">3x5</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/3x5.json" alt="3x5" target="_blank">3x5</a></b>
 <pre>
                          
  ##   #              #   
@@ -77,7 +80,7 @@ _T  |  |\/|  |_|  ~|~
  #                       
 
 </pre>
-<b><a href="jimner/fonts/4Max.js" alt="4Max" target="_blank">4Max</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/4Max.json" alt="4Max" target="_blank">4Max</a></b>
 <pre>
  88888  88  8b    d8  88   88  888888  
     88  88  88b  d88  88   88    88    
@@ -85,7 +88,7 @@ o.  88  88  88YbdP88  Y8   8P    88
 "bodP'  88  88 YY 88  `YbodP'    88    
 
 </pre>
-<b><a href="jimner/fonts/5 Line Oblique.js" alt="5 Line Oblique" target="_blank">5 Line Oblique</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/5 Line Oblique.json" alt="5 Line Oblique" target="_blank">5 Line Oblique</a></b>
 <pre>
                                                              
           / /                                                
@@ -95,7 +98,7 @@ o.  88  88  88YbdP88  Y8   8P    88
  ((___/ /      / /      // / /  / /    ((___( (    / /       
 
 </pre>
-<b><a href="jimner/fonts/AMC 3 Line.js" alt="AMC 3 Line" target="_blank">AMC 3 Line</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/AMC 3 Line.json" alt="AMC 3 Line" target="_blank">AMC 3 Line</a></b>
 <pre>
   .  .-.  .  .  . .  .-.  
   |   |   |\/|  | |   |   
@@ -103,7 +106,7 @@ o.  88  88  88YbdP88  Y8   8P    88
                           
 
 </pre>
-<b><a href="jimner/fonts/AMC 3 Liv1.js" alt="AMC 3 Liv1" target="_blank">AMC 3 Liv1</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/AMC 3 Liv1.json" alt="AMC 3 Liv1" target="_blank">AMC 3 Liv1</a></b>
 <pre>
 .:;.;:.           .:;S;:.  .:;S;:.  .        
       S  .:;s;:'   )             S  S:;s;:'  
@@ -111,7 +114,7 @@ o.  88  88  88YbdP88  Y8   8P    88
                                              
 
 </pre>
-<b><a href="jimner/fonts/AMC AAA01.js" alt="AMC AAA01" target="_blank">AMC AAA01</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/AMC AAA01.json" alt="AMC AAA01" target="_blank">AMC AAA01</a></b>
 <pre>
     .S    .S    .S_SsS_S.     .S       S.    sdSS_SSSSSSbs   
    .SS   .SS   .SS~S*S~SS.   .SS       SS.   YSSS~S%SSSSSP   
@@ -130,7 +133,7 @@ YSSY     S*S   SSS     S*S     YSSP~YSSY          S*S
                                                              
 
 </pre>
-<b><a href="jimner/fonts/AMC Neko.js" alt="AMC Neko" target="_blank">AMC Neko</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/AMC Neko.json" alt="AMC Neko" target="_blank">AMC Neko</a></b>
 <pre>
       SSSSS                                                            
       SSSSS  SSSSS  .sSSSsSS SSsSSSSS  .sSSS s.     .sSSSSSSSSSSSSSs.  
@@ -144,7 +147,7 @@ SSSSS S%%%S  S%%%S  S%%%S       SSSSS  S%%%S SSSSS        S%%%S
                                                                        
 
 </pre>
-<b><a href="jimner/fonts/AMC Razor.js" alt="AMC Razor" target="_blank">AMC Razor</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/AMC Razor.json" alt="AMC Razor" target="_blank">AMC Razor</a></b>
 <pre>
                                   ___          ___  ___   ___  
        .'|    .'|    .'|\/|`.    |   | |`.    `._|=|   |=|_.'  
@@ -155,7 +158,7 @@ ___  |   |  |   |  |   |  |   |  `.  | |   |       `.  |
                                                                
 
 </pre>
-<b><a href="jimner/fonts/AMC Razor2.js" alt="AMC Razor2" target="_blank">AMC Razor2</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/AMC Razor2.json" alt="AMC Razor2" target="_blank">AMC Razor2</a></b>
 <pre>
      .     .        . .    .        . .        . .    .     
      |`+.  |`+.  .+'|=|`+.=|`+.  .+'| |`+.  .+'|=|`+.=|`+.  
@@ -168,7 +171,7 @@ ___  |   |  |   |  |   |  |   |  `.  | |   |       `.  |
                                                             
 
 </pre>
-<b><a href="jimner/fonts/AMC Slash.js" alt="AMC Slash" target="_blank">AMC Slash</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/AMC Slash.json" alt="AMC Slash" target="_blank">AMC Slash</a></b>
 <pre>
       s.                                         
       SS.  s.   .s5ssSs.   .s    s.   .s5SSSSs.  
@@ -182,7 +185,7 @@ ___  |   |  |   |  |   |  |   |  `.  | |   |       `.  |
                                                  
 
 </pre>
-<b><a href="jimner/fonts/AMC Slider.js" alt="AMC Slider" target="_blank">AMC Slider</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/AMC Slider.json" alt="AMC Slider" target="_blank">AMC Slider</a></b>
 <pre>
                                                               
          |  |        .'. .`.        |         |  `````|`````  
@@ -192,7 +195,7 @@ ___  |   |  |   |  |   |  |   |  `.  | |   |       `.  |
                                                               
 
 </pre>
-<b><a href="jimner/fonts/AMC Thin.js" alt="AMC Thin" target="_blank">AMC Thin</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/AMC Thin.json" alt="AMC Thin" target="_blank">AMC Thin</a></b>
 <pre>
     .-.  .-.  .-.-. .-.-.  .-.   .-.  .-..-..-.  
     | |  | |  | |~.-.~| |  | |   | |   ~ | | ~   
@@ -203,7 +206,7 @@ ___  |   |  |   |  |   |  |   |  `.  | |   |       `.  |
                                                  
 
 </pre>
-<b><a href="jimner/fonts/AMC Tubes.js" alt="AMC Tubes" target="_blank">AMC Tubes</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/AMC Tubes.json" alt="AMC Tubes" target="_blank">AMC Tubes</a></b>
 <pre>
         d  d  d s   sb  d       b  sss sssss  
         S  S  S  S S S  S       S      S      
@@ -215,7 +218,7 @@ d       P  S  S      S  S       S      S
                                               
 
 </pre>
-<b><a href="jimner/fonts/AMC Untitled.js" alt="AMC Untitled" target="_blank">AMC Untitled</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/AMC Untitled.json" alt="AMC Untitled" target="_blank">AMC Untitled</a></b>
 <pre>
     ,'',                                              
     ;  ;                                              
@@ -227,7 +230,7 @@ d       P  S  S      S  S       S      S
                                                       
 
 </pre>
-<b><a href="jimner/fonts/ANSI Shadow.js" alt="ANSI Shadow" target="_blank">ANSI Shadow</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/ANSI Shadow.json" alt="ANSI Shadow" target="_blank">ANSI Shadow</a></b>
 <pre>
      ██╗ ██╗ ███╗   ███╗ ██╗   ██╗ ████████╗ 
      ██║ ██║ ████╗ ████║ ██║   ██║ ╚══██╔══╝ 
@@ -238,7 +241,7 @@ d       P  S  S      S  S       S      S
                                              
 
 </pre>
-<b><a href="jimner/fonts/ASCII New Roman.js" alt="ASCII New Roman" target="_blank">ASCII New Roman</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/ASCII New Roman.json" alt="ASCII New Roman" target="_blank">ASCII New Roman</a></b>
 <pre>
   _,     __,    __, _,  _, _,   ____,  
  (-|    (-|    (-|\/|  (-|  \  (-|     
@@ -246,7 +249,7 @@ d       P  S  S      S  S       S      S
 (       (      (       (       (       
 
 </pre>
-<b><a href="jimner/fonts/Abraxis-Big.js" alt="Abraxis-Big" target="_blank">Abraxis-Big</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Abraxis-Big.json" alt="Abraxis-Big" target="_blank">Abraxis-Big</a></b>
 <pre>
                '                          /¯¯¯¯¯¯\                         ‘                        '                                                                                        
 '                                        ¦\______/¦‚ ‚                         /¯¯¯¯¯¯¯¯¦                                 '                       /¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\                     
@@ -263,7 +266,7 @@ d       P  S  S      S  S       S      S
                                '       ’ ¯¯¯¯¯¯¯¯ ’           ‘                                     '                                                                                        
 
 </pre>
-<b><a href="jimner/fonts/Abraxis-Small.js" alt="Abraxis-Small" target="_blank">Abraxis-Small</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Abraxis-Small.json" alt="Abraxis-Small" target="_blank">Abraxis-Small</a></b>
 <pre>
                     ___                                                        ’            
                    ¦___¦”‚‚   ¦˜¨¯¯¨˜\          ’                            ’              
@@ -274,7 +277,7 @@ d       P  S  S      S  S       S      S
 ’\¦___¦¦____¦      ¦___¦/‚‚   ¦____¦:. ¦____¦        '\¦______;¦/’’           '¦__¦‘’   ‚   
 
 </pre>
-<b><a href="jimner/fonts/Acrobatic.js" alt="Acrobatic" target="_blank">Acrobatic</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Acrobatic.json" alt="Acrobatic" target="_blank">Acrobatic</a></b>
 <pre>
          __o__     o                                      o      
            |     _<|>_                                   <|>     
@@ -290,7 +293,7 @@ d       P  S  S      S  S       S      S
                                                                  
 
 </pre>
-<b><a href="jimner/fonts/Alligator.js" alt="Alligator" target="_blank">Alligator</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Alligator.json" alt="Alligator" target="_blank">Alligator</a></b>
 <pre>
      :::::::::::        :::::::::::          :::   :::       :::    :::    :::::::::::  
         :+:                :+:             :+:+: :+:+:      :+:    :+:        :+:       
@@ -301,7 +304,7 @@ d       P  S  S      S  S       S      S
 #####             ###########        ###       ###      ########         ###            
 
 </pre>
-<b><a href="jimner/fonts/Alligator2.js" alt="Alligator2" target="_blank">Alligator2</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Alligator2.json" alt="Alligator2" target="_blank">Alligator2</a></b>
 <pre>
 :::::::::::  :::::::::::  ::::    ::::   :::    :::  :::::::::::  
     :+:          :+:      +:+:+: :+:+:+  :+:    :+:      :+:      
@@ -312,7 +315,7 @@ d       P  S  S      S  S       S      S
  #####       ###########  ###       ###   ########       ###      
 
 </pre>
-<b><a href="jimner/fonts/Alpha.js" alt="Alpha" target="_blank">Alpha</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Alpha.json" alt="Alpha" target="_blank">Alpha</a></b>
 <pre>
           _____                     _____                     _____                     _____                 _____           
          /\    \                   /\    \                   /\    \                   /\    \               /\    \          
@@ -338,7 +341,7 @@ d       P  S  S      S  S       S      S
                                                                                                                               
 
 </pre>
-<b><a href="jimner/fonts/Alphabet.js" alt="Alphabet" target="_blank">Alphabet</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Alphabet.json" alt="Alphabet" target="_blank">Alphabet</a></b>
 <pre>
     J                    t   
     J  ii                t   
@@ -349,7 +352,7 @@ J   J  ii  m m m  u  u   t
                              
 
 </pre>
-<b><a href="jimner/fonts/Arrows.js" alt="Arrows" target="_blank">Arrows</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Arrows.json" alt="Arrows" target="_blank">Arrows</a></b>
 <pre>
      >=>                                  >=>    
      >=>   >>                             >=>    
@@ -361,7 +364,7 @@ J   J  ii  m m m  u  u   t
                                                  
 
 </pre>
-<b><a href="jimner/fonts/Avatar.js" alt="Avatar" target="_blank">Avatar</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Avatar.json" alt="Avatar" target="_blank">Avatar</a></b>
 <pre>
     _   _   _       _      _____  
    / | / \ / \__/| / \ /\ /__ __\ 
@@ -371,7 +374,7 @@ J   J  ii  m m m  u  u   t
                                   
 
 </pre>
-<b><a href="jimner/fonts/Banner.js" alt="Banner" target="_blank">Banner</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Banner.json" alt="Banner" target="_blank">Banner</a></b>
 <pre>
        #                                
        #   #   #    #   #    #   #####  
@@ -383,7 +386,7 @@ J   J  ii  m m m  u  u   t
                                         
 
 </pre>
-<b><a href="jimner/fonts/Banner3.js" alt="Banner3" target="_blank">Banner3</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Banner3.json" alt="Banner3" target="_blank">Banner3</a></b>
 <pre>
       ##  ####  ##     ##  ##     ##  ########  
       ##   ##   ###   ###  ##     ##     ##     
@@ -394,7 +397,7 @@ J   J  ii  m m m  u  u   t
  ######   ####  ##     ##   #######      ##     
 
 </pre>
-<b><a href="jimner/fonts/Banner3-D.js" alt="Banner3-D" target="_blank">Banner3-D</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Banner3-D.json" alt="Banner3-D" target="_blank">Banner3-D</a></b>
 <pre>
 ::::::'##: '####: '##::::'##: '##::::'##: '########: 
 :::::: ##: . ##::  ###::'###:  ##:::: ##: ... ##..:: 
@@ -406,7 +409,7 @@ J   J  ii  m m m  u  u   t
 :......::: ....:: ..:::::..:: :.......::: :::..::::: 
 
 </pre>
-<b><a href="jimner/fonts/Banner4.js" alt="Banner4" target="_blank">Banner4</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Banner4.json" alt="Banner4" target="_blank">Banner4</a></b>
 <pre>
 .......## .#### .##.....## .##.....## .######## 
 .......## ..##. .###...### .##.....## ....##... 
@@ -417,7 +420,7 @@ J   J  ii  m m m  u  u   t
 ..######. .#### .##.....## ..#######. ....##... 
 
 </pre>
-<b><a href="jimner/fonts/Barbwire.js" alt="Barbwire" target="_blank">Barbwire</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Barbwire.json" alt="Barbwire" target="_blank">Barbwire</a></b>
 <pre>
      ><<                              ><<   
      ><<  ><                          ><<   
@@ -429,7 +432,7 @@ J   J  ii  m m m  u  u   t
                                             
 
 </pre>
-<b><a href="jimner/fonts/Basic.js" alt="Basic" target="_blank">Basic</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Basic.json" alt="Basic" target="_blank">Basic</a></b>
 <pre>
    d88b  d888888b  .88b  d88.  db    db  d888888b  
    `8P'    `88'    88'YbdP`88  88    88  `~~88~~'  
@@ -441,7 +444,7 @@ Y8888P   Y888888P  YP  YP  YP  ~Y8888P'     YP
                                                    
 
 </pre>
-<b><a href="jimner/fonts/Bear.js" alt="Bear" target="_blank">Bear</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Bear.json" alt="Bear" target="_blank">Bear</a></b>
 <pre>
    _     _       _     _       _     _       _     _       _     _    
   (c).-.(c)     (c).-.(c)     (c).-.(c)     (c).-.(c)     (c).-.(c)   
@@ -454,7 +457,7 @@ Y8888P   Y888888P  YP  YP  YP  ~Y8888P'     YP
  `-'     `-'   `-'     `-'   `-'     `-'   `-'     `-'   `-'     `-'  
 
 </pre>
-<b><a href="jimner/fonts/Bell.js" alt="Bell" target="_blank">Bell</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Bell.json" alt="Bell" target="_blank">Bell</a></b>
 <pre>
   _______                        .    
  '   /     `  , _ , _    ,   .  _/_   
@@ -464,11 +467,11 @@ Y8888P   Y888888P  YP  YP  YP  ~Y8888P'     YP
                                       
 
 </pre>
-<b><a href="jimner/fonts/Benjamin.js" alt="Benjamin" target="_blank">Benjamin</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Benjamin.json" alt="Benjamin" target="_blank">Benjamin</a></b>
 <pre>
 .]||\/||_|"|"
 </pre>
-<b><a href="jimner/fonts/Bent.js" alt="Bent" target="_blank">Bent</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Bent.json" alt="Bent" target="_blank">Bent</a></b>
 <pre>
         |\¯¯¯\           |\¯¯¯\_'      /¯¯¯¯\        '          |\¯¯¯\|\¯¯¯\         |¯¯¯¯¯¯¯¯|'         
          \|     |'       |:|     '|'  /       _'\/¯¯¯¯\_'       '\|     |\|     '|   |\_______/|°        
@@ -481,7 +484,7 @@ Y8888P   Y888888P  YP  YP  YP  ~Y8888P'     YP
                            _'                  ¯¯¯¯   '                                                  
 
 </pre>
-<b><a href="jimner/fonts/Big.js" alt="Big" target="_blank">Big</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Big.json" alt="Big" target="_blank">Big</a></b>
 <pre>
        _    _                          _    
       | |  (_)                        | |   
@@ -493,7 +496,7 @@ Y8888P   Y888888P  YP  YP  YP  ~Y8888P'     YP
                                             
 
 </pre>
-<b><a href="jimner/fonts/Big Chief.js" alt="Big Chief" target="_blank">Big Chief</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Big Chief.json" alt="Big Chief" target="_blank">Big Chief</a></b>
 <pre>
 __________ _____ ________ ________ ______ 
         __                                
@@ -505,7 +508,7 @@ _(___/____ _/___ _/_/__/_ _(___(__ _(_ __
                                           
 
 </pre>
-<b><a href="jimner/fonts/Big Money-ne.js" alt="Big Money-ne" target="_blank">Big Money-ne</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Big Money-ne.json" alt="Big Money-ne" target="_blank">Big Money-ne</a></b>
 <pre>
     /$$$$$  /$$                              /$$     
    |__  $$ |__/                             | $$     
@@ -520,7 +523,7 @@ _(___/____ _/___ _/_/__/_ _(___(__ _(_ __
                                                      
 
 </pre>
-<b><a href="jimner/fonts/Big Money-nw.js" alt="Big Money-nw" target="_blank">Big Money-nw</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Big Money-nw.json" alt="Big Money-nw" target="_blank">Big Money-nw</a></b>
 <pre>
    $$$$$\  $$\                              $$\      
    \__$$ | \__|                             $$ |     
@@ -535,7 +538,7 @@ $$ |  $$ | $$ | $$ | $$ | $$ | $$ |  $$ |   $$ |$$\
                                                      
 
 </pre>
-<b><a href="jimner/fonts/Big Money-se.js" alt="Big Money-se" target="_blank">Big Money-se</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Big Money-se.json" alt="Big Money-se" target="_blank">Big Money-se</a></b>
 <pre>
     _____   __                               __      
    |     \ |  \                             |  \     
@@ -551,7 +554,7 @@ $$ |  $$ | $$ | $$ | $$ | $$ | $$ |  $$ |   $$ |$$\
                                                      
 
 </pre>
-<b><a href="jimner/fonts/Big Money-sw.js" alt="Big Money-sw" target="_blank">Big Money-sw</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Big Money-sw.json" alt="Big Money-sw" target="_blank">Big Money-sw</a></b>
 <pre>
     _____   __                               __      
    /     | /  |                             /  |     
@@ -567,18 +570,18 @@ $$    $$/  $$ | $$ | $$ | $$ | $$    $$/    $$  $$/
                                                      
 
 </pre>
-<b><a href="jimner/fonts/Bigfig.js" alt="Bigfig" target="_blank">Bigfig</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Bigfig.json" alt="Bigfig" target="_blank">Bigfig</a></b>
 <pre>
                     
   |  o  __      _|_ 
 \_|  |  ||| |_|  |_ 
 
 </pre>
-<b><a href="jimner/fonts/Binary.js" alt="Binary" target="_blank">Binary</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Binary.json" alt="Binary" target="_blank">Binary</a></b>
 <pre>
 01001010 01101001 01101101 01110101 01110100 
 </pre>
-<b><a href="jimner/fonts/Blest.js" alt="Blest" target="_blank">Blest</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Blest.json" alt="Blest" target="_blank">Blest</a></b>
 <pre>
         '.·´¯/|°    '.·´¯/|                 '/¯¯`·.‘         '.·´¯/| |\¯`·.'     .·´¯/|¯¯|\¯`·.°       
         |\__\|°     |\__\|         '.·´¯¯\/ /\     \ ‘       |    |;| |'|    |  |__/ /   /| |__|‘      
@@ -593,7 +596,7 @@ $$    $$/  $$ | $$ | $$ | $$ | $$    $$/    $$  $$/
              °                             ‘                                                    ‘      
 
 </pre>
-<b><a href="jimner/fonts/Block.js" alt="Block" target="_blank">Block</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Block.json" alt="Block" target="_blank">Block</a></b>
 <pre>
                                                             
        _|    _|                                    _|       
@@ -605,7 +608,7 @@ $$    $$/  $$ | $$ | $$ | $$ | $$    $$/    $$  $$/
                                                             
 
 </pre>
-<b><a href="jimner/fonts/Blocks.js" alt="Blocks" target="_blank">Blocks</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Blocks.json" alt="Blocks" target="_blank">Blocks</a></b>
 <pre>
  .----------------.   .----------------.   .----------------.   .----------------.   .----------------.  
 | .--------------. | | .--------------. | | .--------------. | | .--------------. | | .--------------. | 
@@ -620,7 +623,7 @@ $$    $$/  $$ | $$ | $$ | $$ | $$    $$/    $$  $$/
  '----------------'   '----------------'   '----------------'   '----------------'   '----------------'  
 
 </pre>
-<b><a href="jimner/fonts/Bloody.js" alt="Bloody" target="_blank">Bloody</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Bloody.json" alt="Bloody" target="_blank">Bloody</a></b>
 <pre>
  ▄▄▄██▀▀▀  ██▓  ███▄ ▄███▓  █    ██  ▄▄▄█████▓ 
    ▒██    ▓██▒ ▓██▒▀█▀ ██▒  ██  ▓██▒ ▓  ██▒ ▓▒ 
@@ -634,7 +637,7 @@ $$    $$/  $$ | $$ | $$ | $$ | $$    $$/    $$  $$/
                                                
 
 </pre>
-<b><a href="jimner/fonts/Boie.js" alt="Boie" target="_blank">Boie</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Boie.json" alt="Boie" target="_blank">Boie</a></b>
 <pre>
           '|¯¯¯¯|`·.    |¯¯¯¯|`·.    '/¯¯¯¯/\\,//\¯¯¯¯\`·.'        |¯¯¯¯|`·|¯¯¯¯|`·.       /¯¯¯¯/|¯¯¯¯|\¯¯¯¯\`·.          
           '|·´`·.·´|::: |.·´`·.·|::: |·´`·.·´|::'\/:':|`·.·´`·|::: |.·´`·.·|::|`·.·´`·|::: ¯¯¯¯  |`·.·´`·|`·¯¯¯¯`·.       
@@ -643,7 +646,7 @@ $$    $$/  $$ | $$ | $$ | $$ | $$    $$/    $$  $$/
   `·.::::::::::::'`·./' '`·.:::::`·. '`·.:::::`·.    '`·.:::::`·.   '`·.:::::::::::::`·./'          '`·.:::::`·.          
 
 </pre>
-<b><a href="jimner/fonts/Boie2.js" alt="Boie2" target="_blank">Boie2</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Boie2.json" alt="Boie2" target="_blank">Boie2</a></b>
 <pre>
           '|¯¯¯¯|`·. |¯¯¯¯|`·. '/¯¯¯¯/\\,//\¯¯¯¯\`·.'     |¯¯¯¯|`·|¯¯¯¯|`·.    /¯¯¯¯/|¯¯¯¯|\¯¯¯¯\`·.       
           '|÷÷÷÷|::: |÷÷÷÷|::: |÷÷÷÷|::'\/:':|       |::: |       |::|÷÷÷÷|::: ¯¯¯¯  |÷÷÷÷|`·¯¯¯¯`·.       
@@ -651,7 +654,7 @@ $$    $$/  $$ | $$ | $$ | $$ | $$    $$/    $$  $$/
 '\____\/____/`·.'    |____|::: |____|:::    |____|:::     '\____\/____/`·.'             |____|:::          
          '`·.:::::`·.       
 </pre>
-<b><a href="jimner/fonts/Bolger.js" alt="Bolger" target="_blank">Bolger</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Bolger.json" alt="Bolger" target="_blank">Bolger</a></b>
 <pre>
     888  ,e,                             d8    
     888   "   888-~88e-~88e  888  888  _d88__  
@@ -662,7 +665,7 @@ $$    $$/  $$ | $$ | $$ | $$ | $$    $$/    $$  $$/
                                                
 
 </pre>
-<b><a href="jimner/fonts/Bone's Font.js" alt="Bone's Font" target="_blank">Bone's Font</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Bone's Font.json" alt="Bone's Font" target="_blank">Bone's Font</a></b>
 <pre>
  |¯¯¯¯¯¯¯¯¯¯¯|'            |\¯¯¯\‚       '/¯¯¯¯|  |¯¯¯¯\‚              |\¯¯¯\  |\¯¯¯\ °          |¯¯¯¯¯¯¯¯¯¯|           
  |____       ___|'         | |     |'    |        '\/         |‚       | |     '|°| |     '|'    |___       ___|        
@@ -673,7 +676,7 @@ $$    $$/  $$ | $$ | $$ | $$ | $$    $$/    $$  $$/
 '°\|___||___|               °\|__¸'|     '|____|  °|____|             °'\|____'|/|___|‘                |__¸¸'|'         
 
 </pre>
-<b><a href="jimner/fonts/Braced.js" alt="Braced" target="_blank">Braced</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Braced.json" alt="Braced" target="_blank">Braced</a></b>
 <pre>
    .-.  .-.  .-.  .-.  .-. .-.  .-----.  
    | |  { |  }  \/  {  | } { |  `-' '-'  
@@ -682,7 +685,7 @@ $$    $$/  $$ | $$ | $$ | $$ | $$    $$/    $$  $$/
                                          
 
 </pre>
-<b><a href="jimner/fonts/Bright.js" alt="Bright" target="_blank">Bright</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Bright.json" alt="Bright" target="_blank">Bright</a></b>
 <pre>
 .######. .######. .##...##. .##..##. .######. 
 .....##. ...##... .###.###. .##..##. ...##... 
@@ -692,7 +695,7 @@ $$    $$/  $$ | $$ | $$ | $$ | $$    $$/    $$  $$/
 ........ ........ ......... ........ ........ 
 
 </pre>
-<b><a href="jimner/fonts/Broadway.js" alt="Broadway" target="_blank">Broadway</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Broadway.json" alt="Broadway" target="_blank">Broadway</a></b>
 <pre>
                                       .         .                                                
            8 8888   8 8888           ,8.       ,8.           8 8888      88  8888888 8888888888  
@@ -707,14 +710,14 @@ $$    $$/  $$ | $$ | $$ | $$ | $$    $$/    $$  $$/
     `Y888888 '      8 8888  ,8'         `         `8.`8888.     `Y88888P'          8 8888        
 
 </pre>
-<b><a href="jimner/fonts/Broadway KB.js" alt="Broadway KB" target="_blank">Broadway KB</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Broadway KB.json" alt="Broadway KB" target="_blank">Broadway KB</a></b>
 <pre>
    _    _    _       _     _____  
   | |  | |  | |\/|  | | |   | |   
 \_|_|  |_|  |_|  |  \_\_/   |_|   
 
 </pre>
-<b><a href="jimner/fonts/Bubble.js" alt="Bubble" target="_blank">Bubble</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Bubble.json" alt="Bubble" target="_blank">Bubble</a></b>
 <pre>
    _      _      _      _      _   
   / \    / \    / \    / \    / \  
@@ -722,7 +725,7 @@ $$    $$/  $$ | $$ | $$ | $$ | $$    $$/    $$  $$/
   \_/    \_/    \_/    \_/    \_/  
 
 </pre>
-<b><a href="jimner/fonts/Bulbhead.js" alt="Bulbhead" target="_blank">Bulbhead</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Bulbhead.json" alt="Bulbhead" target="_blank">Bulbhead</a></b>
 <pre>
   ____   ____   __  __   __  __   ____  
  (_  _) (_  _) (  \/  ) (  )(  ) (_  _) 
@@ -730,7 +733,7 @@ $$    $$/  $$ | $$ | $$ | $$ | $$    $$/    $$  $$/
 \____)  (____) (_/\/\_) (______)  (__)  
 
 </pre>
-<b><a href="jimner/fonts/CaMiZ.js" alt="CaMiZ" target="_blank">CaMiZ</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/CaMiZ.json" alt="CaMiZ" target="_blank">CaMiZ</a></b>
 <pre>
 |¯¯¯¯¯¯¯¯¯¯¯|        |¯¯¯¯¯¯¯¯¯|'     |¯¯¯¯\/¯¯¯¯|        |¯¯¯¯| |'¯¯¯’|      |¯¯¯¯¯¯¯¯¯¯¯|          
  `·––-\     \—·´     |__/|     |\__|‚ |                |  |       | |      '| `·––\       '/—·´'     
@@ -738,7 +741,7 @@ $$    $$/  $$ | $$ | $$ | $$ | $$    $$/    $$  $$/
 '\___\|___/          |_________|'     |___|    |___|       \________'/              |____|'’         
 
 </pre>
-<b><a href="jimner/fonts/Caligraphy.js" alt="Caligraphy" target="_blank">Caligraphy</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Caligraphy.json" alt="Caligraphy" target="_blank">Caligraphy</a></b>
 <pre>
                                                                           
         ***** **                                                          
@@ -763,7 +766,7 @@ $$    $$/  $$ | $$ | $$ | $$ | $$    $$/    $$  $$/
                                                                           
 
 </pre>
-<b><a href="jimner/fonts/Caligraphy2.js" alt="Caligraphy2" target="_blank">Caligraphy2</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Caligraphy2.json" alt="Caligraphy2" target="_blank">Caligraphy2</a></b>
 <pre>
                                                                           
         ##### ##                                                          
@@ -787,14 +790,14 @@ $$    $$/  $$ | $$ | $$ | $$ | $$    $$/    $$  $$/
      #                                                                    
 
 </pre>
-<b><a href="jimner/fonts/Calvin S.js" alt="Calvin S" target="_blank">Calvin S</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Calvin S.json" alt="Calvin S" target="_blank">Calvin S</a></b>
 <pre>
  ╦ ┬ ┌┬┐ ┬ ┬ ┌┬┐ 
  ║ │ │││ │ │  │  
 ╚╝ ┴ ┴ ┴ └─┘  ┴  
 
 </pre>
-<b><a href="jimner/fonts/Cards.js" alt="Cards" target="_blank">Cards</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Cards.json" alt="Cards" target="_blank">Cards</a></b>
 <pre>
 .------. .------. .------. .------. .------. 
 |J.--. | |I.--. | |M.--. | |U.--. | |T.--. | 
@@ -804,7 +807,7 @@ $$    $$/  $$ | $$ | $$ | $$ | $$    $$/    $$  $$/
 `------' `------' `------' `------' `------' 
 
 </pre>
-<b><a href="jimner/fonts/Catwalk.js" alt="Catwalk" target="_blank">Catwalk</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Catwalk.json" alt="Catwalk" target="_blank">Catwalk</a></b>
 <pre>
      _//                              _//   
      _//  _/                          _//   
@@ -816,18 +819,18 @@ _/   _// _//  _//  _/  _// _//  _//   _//
                                             
 
 </pre>
-<b><a href="jimner/fonts/CeA.js" alt="CeA" target="_blank">CeA</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/CeA.json" alt="CeA" target="_blank">CeA</a></b>
 <pre>
       l¯¯l  )¯¯) l¯¯l\_\/_/l¯¯l /¯¯/ /¯¯/ l¯¯l\¯¯ /l¯¯l  
 (¯¯(/__/   (__(  ¯¯  l__l ¯¯ '  
 </pre>
-<b><a href="jimner/fonts/CeA2.js" alt="CeA2" target="_blank">CeA2</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/CeA2.json" alt="CeA2" target="_blank">CeA2</a></b>
 <pre>
       'l¯¯l     (¯¯(      /¯¯/\_/\¯¯\°   /¯¯/ /¯¯/'   l¯¯¯¯¯l   
  \¯¯\l__l        )__)     \__\    /__/   \__\/__'\     ¯l__l¯‘  
 
 </pre>
-<b><a href="jimner/fonts/Cheese.js" alt="Cheese" target="_blank">Cheese</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Cheese.json" alt="Cheese" target="_blank">Cheese</a></b>
 <pre>
           |˜¨¯¨˜ |     |˜¨¯¨˜'|'‚    '|'˜¨¯¨'˜¯\/'˜¨¯¨'˜˜¨¯'\‚      |˜¨¯¨˜'| |˜¨¯¨˜'|    /˜¨¯¨˜˜¨¯¨˜˜¨¯¨˜˜¨¯¨˜\       
           |       |‘   |      '|     /             '/|\       \'‚   |      | |      '|   \¸_¸_¸_      _¸_¸_¸/'        
@@ -842,7 +845,7 @@ _/   _// _//  _//  _/  _// _//  _//   _//
       °                                              '             '                                                  
 
 </pre>
-<b><a href="jimner/fonts/Chiseled.js" alt="Chiseled" target="_blank">Chiseled</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Chiseled.json" alt="Chiseled" target="_blank">Chiseled</a></b>
 <pre>
       ,--.-,     .=-.-.           ___                    ,--.--------.   
      |==' -|    /==/_ /    .-._ .'=.'\    .--.-. .-.-.  /==/,  -   , -\  
@@ -855,7 +858,7 @@ _/   _// _//  _//  _/  _// _//  _//   _//
  `--`----'     `--`-`     `--`./  `--`   `--`..---'           `--`--`    
 
 </pre>
-<b><a href="jimner/fonts/Chunky.js" alt="Chunky" target="_blank">Chunky</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Chunky.json" alt="Chunky" target="_blank">Chunky</a></b>
 <pre>
    _____   __                      __    
  _|     | |__| .--------. .--.--. |  |_  
@@ -864,7 +867,7 @@ _/   _// _//  _//  _/  _// _//  _//   _//
                                          
 
 </pre>
-<b><a href="jimner/fonts/Coinstak.js" alt="Coinstak" target="_blank">Coinstak</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Coinstak.json" alt="Coinstak" target="_blank">Coinstak</a></b>
 <pre>
      O))                              O))   
      O))  O)                          O))   
@@ -876,7 +879,7 @@ O)   O)) O))  O))  O)  O)) O))  O))   O))
                                             
 
 </pre>
-<b><a href="jimner/fonts/Cola.js" alt="Cola" target="_blank">Cola</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Cola.json" alt="Cola" target="_blank">Cola</a></b>
 <pre>
          .;;;                                              .    
           .;'      .-.                                 ...;...  
@@ -886,7 +889,7 @@ O)   O)) O))  O))  O)  O)) O))  O))   O))
   `;;;;;;'              _;        `-'                           
 
 </pre>
-<b><a href="jimner/fonts/Colossal.js" alt="Colossal" target="_blank">Colossal</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Colossal.json" alt="Colossal" target="_blank">Colossal</a></b>
 <pre>
   888888  d8b                           888     
     "88b  Y8P                           888     
@@ -901,7 +904,7 @@ O)   O)) O))  O))  O)  O)) O))  O))   O))
 888P"                                           
 
 </pre>
-<b><a href="jimner/fonts/Computer.js" alt="Computer" target="_blank">Computer</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Computer.json" alt="Computer" target="_blank">Computer</a></b>
 <pre>
     8                              
     8   e   eeeeeee  e   e  eeeee  
@@ -912,7 +915,7 @@ e   88  88  88 8  8  88  8    88
                                    
 
 </pre>
-<b><a href="jimner/fonts/Contessa.js" alt="Contessa" target="_blank">Contessa</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Contessa.json" alt="Contessa" target="_blank">Contessa</a></b>
 <pre>
    .              ,  
    | * ._ _  . . -+- 
@@ -920,7 +923,7 @@ e   88  88  88 8  8  88  8    88
                      
 
 </pre>
-<b><a href="jimner/fonts/Contrast.js" alt="Contrast" target="_blank">Contrast</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Contrast.json" alt="Contrast" target="_blank">Contrast</a></b>
 <pre>
 .%%%%%%. .%%%%%%. .%%...%%. .%%..%%. .%%%%%%. 
 .....%%. ...%%... .%%%.%%%. .%%..%%. ...%%... 
@@ -930,7 +933,7 @@ e   88  88  88 8  8  88  8    88
 ........ ........ ......... ........ ........ 
 
 </pre>
-<b><a href="jimner/fonts/Cosmike.js" alt="Cosmike" target="_blank">Cosmike</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Cosmike.json" alt="Cosmike" target="_blank">Cosmike</a></b>
 <pre>
     ....:::::: ::: .        :     ...    ::: :::::::::::: 
  ;;;;;;;;;```` ;;; ;;,.    ;;;    ;;     ;;; ;;;;;;;;'''' 
@@ -940,7 +943,7 @@ e   88  88  88 8  8  88  8    88
 "MMMMMMMM"     MMM MMM  M'  "MMM  "YmmMMMM""      MMM     
 
 </pre>
-<b><a href="jimner/fonts/Crawford.js" alt="Crawford" target="_blank">Crawford</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Crawford.json" alt="Crawford" target="_blank">Crawford</a></b>
 <pre>
   ____   ____   ___ ___   __ __   ______  
  |    | l    j |   T   T |  T  T |      T 
@@ -952,7 +955,7 @@ e   88  88  88 8  8  88  8    88
                                           
 
 </pre>
-<b><a href="jimner/fonts/Crawford2.js" alt="Crawford2" target="_blank">Crawford2</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Crawford2.json" alt="Crawford2" target="_blank">Crawford2</a></b>
 <pre>
   ____   ____   ___ ___   __ __   ______  
  |    | |    | |   |   | |  |  | |      | 
@@ -964,7 +967,7 @@ e   88  88  88 8  8  88  8    88
                                           
 
 </pre>
-<b><a href="jimner/fonts/Crazy.js" alt="Crazy" target="_blank">Crazy</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Crazy.json" alt="Crazy" target="_blank">Crazy</a></b>
 <pre>
     .---.                                                  
     |   |                                                  
@@ -981,7 +984,7 @@ e   88  88  88 8  8  88  8    88
 |____.'                             `-'  `--'      `'-'    
 
 </pre>
-<b><a href="jimner/fonts/Cricket.js" alt="Cricket" target="_blank">Cricket</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Cricket.json" alt="Cricket" target="_blank">Cricket</a></b>
 <pre>
   _______    __                         __    
  |   _   |  |__|  .--------.  .--.--.  |  |_  
@@ -993,7 +996,7 @@ e   88  88  88 8  8  88  8    88
                                               
 
 </pre>
-<b><a href="jimner/fonts/Cursive.js" alt="Cursive" target="_blank">Cursive</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Cursive.json" alt="Cursive" target="_blank">Cursive</a></b>
 <pre>
   ___                        
  (   >                   _/_ 
@@ -1003,7 +1006,7 @@ e   88  88  88 8  8  88  8    88
                              
 
 </pre>
-<b><a href="jimner/fonts/Cyberlarge.js" alt="Cyberlarge" target="_blank">Cyberlarge</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Cyberlarge.json" alt="Cyberlarge" target="_blank">Cyberlarge</a></b>
 <pre>
  _____  _____  _______  _     _  _______ 
    |      |    |  |  |  |     |     |    
@@ -1011,7 +1014,7 @@ e   88  88  88 8  8  88  8    88
                                          
 
 </pre>
-<b><a href="jimner/fonts/Cybermedium.js" alt="Cybermedium" target="_blank">Cybermedium</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Cybermedium.json" alt="Cybermedium" target="_blank">Cybermedium</a></b>
 <pre>
  _  _  _  _  _  _  ___  
  |  |  |\/|  |  |   |   
@@ -1019,13 +1022,13 @@ _|  |  |  |  |__|   |
                         
 
 </pre>
-<b><a href="jimner/fonts/Cybersmall.js" alt="Cybersmall" target="_blank">Cybersmall</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Cybersmall.json" alt="Cybersmall" target="_blank">Cybersmall</a></b>
 <pre>
     _  _  _  _  _  _  ___ 
  ___|  |  |\/|  |__|   |  
 
 </pre>
-<b><a href="jimner/fonts/Cygnet.js" alt="Cygnet" target="_blank">Cygnet</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Cygnet.json" alt="Cygnet" target="_blank">Cygnet</a></b>
 <pre>
                     
 .-. .            .  
@@ -1034,7 +1037,7 @@ _|  |  |  |  |__|   |
                     
 
 </pre>
-<b><a href="jimner/fonts/DANC4.js" alt="DANC4" target="_blank">DANC4</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/DANC4.json" alt="DANC4" target="_blank">DANC4</a></b>
 <pre>
   \O     \O/  \O/    \O    '\   /` 
   _|# .___Y    Y      |_     \ /   
@@ -1042,7 +1045,7 @@ _| |      |   / \    /  |     X
    |_     |_ _| |_ ./   |_   /O\   
 
 </pre>
-<b><a href="jimner/fonts/DWhistled.js" alt="DWhistled" target="_blank">DWhistled</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/DWhistled.json" alt="DWhistled" target="_blank">DWhistled</a></b>
 <pre>
 J i m u t 
           
@@ -1056,7 +1059,7 @@ J i m u t
           
 
 </pre>
-<b><a href="jimner/fonts/DaiR.js" alt="DaiR" target="_blank">DaiR</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/DaiR.json" alt="DaiR" target="_blank">DaiR</a></b>
 <pre>
                ¸.·´¯¯¯¯)         .·´¯¯¯.·´|       .·´¯¯¯`·. ¸.-—.¸             .·´¯¯/|_ '                     _.·-·.¸_'      /( '   
               /       /|\( ‘'  (        (   |°   /    /`·.   `·.       \'   .·´     /|\   `·.‚'   ' ¸.-~·*¨¯        ¯`·-·´    )‘    
@@ -1069,7 +1072,7 @@ J i m u t
                                                 '                                                '                             '    
 
 </pre>
-<b><a href="jimner/fonts/Dancing Font.js" alt="Dancing Font" target="_blank">Dancing Font</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Dancing Font.json" alt="Dancing Font" target="_blank">Dancing Font</a></b>
 <pre>
      _                        __  __       _   _     _____    
   U |"| u         ___       U|' \/ '|u  U |"|u| |   |_ " _|   
@@ -1080,11 +1083,11 @@ J i m u t
  (__)         \_)-' '-(_/    (./  \.)       (__)   (__) (__)  
 
 </pre>
-<b><a href="jimner/fonts/Decimal.js" alt="Decimal" target="_blank">Decimal</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Decimal.json" alt="Decimal" target="_blank">Decimal</a></b>
 <pre>
 74 105 109 117 116 
 </pre>
-<b><a href="jimner/fonts/Def Leppard.js" alt="Def Leppard" target="_blank">Def Leppard</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Def Leppard.json" alt="Def Leppard" target="_blank">Def Leppard</a></b>
 <pre>
                                                                
                                                                
@@ -1104,7 +1107,7 @@ J i m u t
                                                                
 
 </pre>
-<b><a href="jimner/fonts/Delta Corps Priest 1.js" alt="Delta Corps Priest 1" target="_blank">Delta Corps Priest 1</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Delta Corps Priest 1.json" alt="Delta Corps Priest 1" target="_blank">Delta Corps Priest 1</a></b>
 <pre>
      ▄█   ▄█      ▄▄▄▄███▄▄▄▄    ███    █▄       ███      
     ███  ███    ▄██▀▀▀███▀▀▀██▄  ███    ███  ▀█████████▄  
@@ -1117,7 +1120,7 @@ J i m u t
 ▀▀▀▀▀▀                                                    
 
 </pre>
-<b><a href="jimner/fonts/Diamond.js" alt="Diamond" target="_blank">Diamond</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Diamond.json" alt="Diamond" target="_blank">Diamond</a></b>
 <pre>
      /\\                              /\\   
      /\\  /\                          /\\   
@@ -1129,7 +1132,7 @@ J i m u t
                                             
 
 </pre>
-<b><a href="jimner/fonts/Diet Cola.js" alt="Diet Cola" target="_blank">Diet Cola</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Diet Cola.json" alt="Diet Cola" target="_blank">Diet Cola</a></b>
 <pre>
       .----.                                                  
         /            .-.                                 /    
@@ -1139,14 +1142,14 @@ J i m u t
   `-'                                `-'                      
 
 </pre>
-<b><a href="jimner/fonts/Digital.js" alt="Digital" target="_blank">Digital</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Digital.json" alt="Digital" target="_blank">Digital</a></b>
 <pre>
  +-+  +-+  +-+  +-+  +-+ 
  |J|  |i|  |m|  |u|  |t| 
  +-+  +-+  +-+  +-+  +-+ 
 
 </pre>
-<b><a href="jimner/fonts/Doh.js" alt="Doh" target="_blank">Doh</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Doh.json" alt="Doh" target="_blank">Doh</a></b>
 <pre>
                                                                                                    
                                                                                                    
@@ -1175,7 +1178,7 @@ J:::::::JJJ:::::::J   i::::::i m::::m   m::::m   m::::m u:::::::::::::::uu      
                                                                                                    
 
 </pre>
-<b><a href="jimner/fonts/Doom.js" alt="Doom" target="_blank">Doom</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Doom.json" alt="Doom" target="_blank">Doom</a></b>
 <pre>
    ___   _                       _    
   |_  | (_)                     | |   
@@ -1187,7 +1190,7 @@ J:::::::JJJ:::::::J   i::::::i m::::m   m::::m   m::::m u:::::::::::::::uu      
                                       
 
 </pre>
-<b><a href="jimner/fonts/Dot Matrix.js" alt="Dot Matrix" target="_blank">Dot Matrix</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Dot Matrix.json" alt="Dot Matrix" target="_blank">Dot Matrix</a></b>
 <pre>
           _  _  _               _                                                               _             
          (_)(_)(_)             (_)                                                             (_)            
@@ -1201,7 +1204,7 @@ J:::::::JJJ:::::::J   i::::::i m::::m   m::::m   m::::m u:::::::::::::::uu      
                                                                                                               
 
 </pre>
-<b><a href="jimner/fonts/Double.js" alt="Double" target="_blank">Double</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Double.json" alt="Double" target="_blank">Double</a></b>
 <pre>
     __  __  ___  ___  __ __  ______ 
     ||  ||  ||\\//||  || ||  | || | 
@@ -1210,14 +1213,14 @@ J:::::::JJJ:::::::J   i::::::i m::::m   m::::m   m::::m u:::::::::::::::uu      
                                     
 
 </pre>
-<b><a href="jimner/fonts/Double Shorts.js" alt="Double Shorts" target="_blank">Double Shorts</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Double Shorts.json" alt="Double Shorts" target="_blank">Double Shorts</a></b>
 <pre>
    __  __  ___  __  __ __  _____  
    ||  ||  || \/ |  || ||   ||    
 |__||  ||  ||    |  \\_//   ||    
 
 </pre>
-<b><a href="jimner/fonts/Dr Pepper.js" alt="Dr Pepper" target="_blank">Dr Pepper</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Dr Pepper.json" alt="Dr Pepper" target="_blank">Dr Pepper</a></b>
 <pre>
   _   _                   _    
  | | <_> ._ _ _   _ _   _| |_  
@@ -1230,7 +1233,7 @@ _| | | | | ' ' | | | |   | |
 'i'
 'm'
 'u'
-<b><a href="jimner/fonts/Efti Chess.js" alt="Efti Chess" target="_blank">Efti Chess</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Efti Chess.json" alt="Efti Chess" target="_blank">Efti Chess</a></b>
 <pre>
 ######### 
 ##[`'`']# 
@@ -1239,7 +1242,7 @@ _| | | | | ' ' | | | |   | |
 ######### 
 
 </pre>
-<b><a href="jimner/fonts/Efti Font.js" alt="Efti Font" target="_blank">Efti Font</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Efti Font.json" alt="Efti Font" target="_blank">Efti Font</a></b>
 <pre>
    _                    
   | | ()   _ _      ||  
@@ -1248,7 +1251,7 @@ n_| | || |/ \ \ |U| | ]
                         
 
 </pre>
-<b><a href="jimner/fonts/Efti Italic.js" alt="Efti Italic" target="_blank">Efti Italic</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Efti Italic.json" alt="Efti Italic" target="_blank">Efti Italic</a></b>
 <pre>
     __                        
    / /   ()   _            /7 
@@ -1257,14 +1260,14 @@ n_/ /   /7   / \'\  /7/7  /_7
                               
 
 </pre>
-<b><a href="jimner/fonts/Efti Piti.js" alt="Efti Piti" target="_blank">Efti Piti</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Efti Piti.json" alt="Efti Piti" target="_blank">Efti Piti</a></b>
 <pre>
  ()         
  || i m u t 
 [_|         
 
 </pre>
-<b><a href="jimner/fonts/Efti Robot.js" alt="Efti Robot" target="_blank">Efti Robot</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Efti Robot.json" alt="Efti Robot" target="_blank">Efti Robot</a></b>
 <pre>
     _   _                  _   
    ( ) (_)                ( )  
@@ -1274,7 +1277,7 @@ n_/ /   /7   / \'\  /7/7  /_7
                                
 
 </pre>
-<b><a href="jimner/fonts/Efti Wall.js" alt="Efti Wall" target="_blank">Efti Wall</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Efti Wall.json" alt="Efti Wall" target="_blank">Efti Wall</a></b>
 <pre>
                   .      .          ___            o                       
     -`^'-       .  .:::.           /_\ `*       ` /_\ '         ()_()      
@@ -1282,7 +1285,7 @@ n_/ /   /7   / \'\  /7/7  /_7
 ooO--(_)--Ooo- ooO--(_)--Ooo- ooO--(_)--Ooo- ooO--(_)--Ooo- ooO--`o'--Ooo- 
 
 </pre>
-<b><a href="jimner/fonts/Efti Water.js" alt="Efti Water" target="_blank">Efti Water</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Efti Water.json" alt="Efti Water" target="_blank">Efti Water</a></b>
 <pre>
   _   o                _  
   ))  _   _  _   _     )L 
@@ -1290,7 +1293,7 @@ ooO--(_)--Ooo- ooO--(_)--Ooo- ooO--(_)--Ooo- ooO--(_)--Ooo- ooO--`o'--Ooo-
 ._))                      
 
 </pre>
-<b><a href="jimner/fonts/Electronic.js" alt="Electronic" target="_blank">Electronic</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Electronic.json" alt="Electronic" target="_blank">Electronic</a></b>
 <pre>
  ▄▄▄▄▄▄▄▄▄▄▄   ▄▄▄▄▄▄▄▄▄▄▄   ▄▄       ▄▄   ▄         ▄   ▄▄▄▄▄▄▄▄▄▄▄  
 ▐░░░░░░░░░░░▌ ▐░░░░░░░░░░░▌ ▐░░▌     ▐░░▌ ▐░▌       ▐░▌ ▐░░░░░░░░░░░▌ 
@@ -1306,7 +1309,7 @@ ooO--(_)--Ooo- ooO--(_)--Ooo- ooO--(_)--Ooo- ooO--(_)--Ooo- ooO--`o'--Ooo-
                                                                       
 
 </pre>
-<b><a href="jimner/fonts/Elite.js" alt="Elite" target="_blank">Elite</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Elite.json" alt="Elite" target="_blank">Elite</a></b>
 <pre>
  ▐▄▄▄ ▪   • ▌ ▄ ·.  ▄• ▄▌ ▄▄▄▄▄ 
   ·██ ██  ·██ ▐███▪ █▪██▌ •██   
@@ -1315,7 +1318,7 @@ ooO--(_)--Ooo- ooO--(_)--Ooo- ooO--(_)--Ooo- ooO--(_)--Ooo- ooO--`o'--Ooo-
  ▀▀▀• ▀▀▀ ▀▀  █▪▀▀▀  ▀▀▀   ▀▀▀  
 
 </pre>
-<b><a href="jimner/fonts/Epic.js" alt="Epic" target="_blank">Epic</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Epic.json" alt="Epic" target="_blank">Epic</a></b>
 <pre>
 _________ _________  _______            _________ 
 \__    _/ \__   __/ (       ) |\     /| \__   __/ 
@@ -1328,7 +1331,7 @@ _________ _________  _______            _________
                                                   
 
 </pre>
-<b><a href="jimner/fonts/Fender.js" alt="Fender" target="_blank">Fender</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Fender.json" alt="Fender" target="_blank">Fender</a></b>
 <pre>
 |''||''|                                ||     
    ||      ''                           ||     
@@ -1339,7 +1342,7 @@ _________ _________  _______            _________
                                                
 
 </pre>
-<b><a href="jimner/fonts/Filter.js" alt="Filter" target="_blank">Filter</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Filter.json" alt="Filter" target="_blank">Filter</a></b>
 <pre>
      d8p     8888  d88b_o8b  888  888  888888888  
      88p     8888  d88 8'8b  888  888     '88d    
@@ -1348,7 +1351,7 @@ _________ _________  _______            _________
                                                   
 
 </pre>
-<b><a href="jimner/fonts/Filth.js" alt="Filth" target="_blank">Filth</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Filth.json" alt="Filth" target="_blank">Filth</a></b>
 <pre>
           '\·. _ .·/'  .· ´ ¯ ` ·.    \· . _ . ·· . _ . ·/       \·. _ .·/                \· . ______ . ·/'        
             \      |   `· . _ . ·´     '\                '/'      |'     /   \·._ .·/‘    /· ´ ¯`.    .´¯· .\ '    
@@ -1357,7 +1360,7 @@ _________ _________  _______            _________
     `· . __ . ·´ °     /· ´ ¯ ` ·\    ' /·´ ¯ `·\´ ¯ ` ·\  '        `· . __ . ·´‘   '     '     /·´ ¯ `·\   ‘      
 
 </pre>
-<b><a href="jimner/fonts/Fire Font-k.js" alt="Fire Font-k" target="_blank">Fire Font-k</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Fire Font-k.json" alt="Fire Font-k" target="_blank">Fire Font-k</a></b>
 <pre>
                                         
                                     )   
@@ -1370,7 +1373,7 @@ _________ _________  _______            _________
                                         
 
 </pre>
-<b><a href="jimner/fonts/Fire Font-s.js" alt="Fire Font-s" target="_blank">Fire Font-s</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Fire Font-s.json" alt="Fire Font-s" target="_blank">Fire Font-s</a></b>
 <pre>
                                         
                                     )   
@@ -1383,7 +1386,7 @@ _________ _________  _______            _________
                                         
 
 </pre>
-<b><a href="jimner/fonts/Flipped.js" alt="Flipped" target="_blank">Flipped</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Flipped.json" alt="Flipped" target="_blank">Flipped</a></b>
 <pre>
   _            ____   ____      _  
  / |    ____  |_   | |   _|  __| | 
@@ -1391,7 +1394,7 @@ _________ _________  _______            _________
  \___|        |____| |____|    |_| 
 
 </pre>
-<b><a href="jimner/fonts/Flower Power.js" alt="Flower Power" target="_blank">Flower Power</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Flower Power.json" alt="Flower Power" target="_blank">Flower Power</a></b>
 <pre>
      .-./`)    .-./`)   ,---.    ,---.    ___    _   ,---------.   
      \ '_ .')  \ .-.')  |    \  /    |  .'   |  | |  \          \  
@@ -1405,7 +1408,7 @@ _________ _________  _______            _________
                                                                    
 
 </pre>
-<b><a href="jimner/fonts/FoGG.js" alt="FoGG" target="_blank">FoGG</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/FoGG.json" alt="FoGG" target="_blank">FoGG</a></b>
 <pre>
             /¯¯¯¯¯/|           |\¯¯¯¯¯¯\            |\¯¯¯¯¯¯¯\                            |\¯¯¯¯¯¯\  |\¯¯¯¯¯¯\'                  /¯¯¯¯¯¯¯¯¯¯¯¯¯¯\                  
            |         |;| °     |;|          |       |;|           |\'\/¯¯¯¯¯¯/|           |;|           | |;|          |'       |                           |      
@@ -1424,7 +1427,7 @@ _________ _________  _______            _________
                '                        '‚                                                                                     '                                   
 
 </pre>
-<b><a href="jimner/fonts/Four Tops.js" alt="Four Tops" target="_blank">Four Tops</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Four Tops.json" alt="Four Tops" target="_blank">Four Tops</a></b>
 <pre>
 ~~|~ '                  |  
   |  | |/~\ /~\  |   | ~|~ 
@@ -1432,7 +1435,7 @@ _________ _________  _______            _________
                            
 
 </pre>
-<b><a href="jimner/fonts/Fraktur.js" alt="Fraktur" target="_blank">Fraktur</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Fraktur.json" alt="Fraktur" target="_blank">Fraktur</a></b>
 <pre>
       .               .                                               s     
   .x88888x.          @88>                                            :8     
@@ -1451,7 +1454,7 @@ _________ _________  _______            _________
     `"888x:-"                                                               
 
 </pre>
-<b><a href="jimner/fonts/Fun Face.js" alt="Fun Face" target="_blank">Fun Face</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Fun Face.json" alt="Fun Face" target="_blank">Fun Face</a></b>
 <pre>
        _      wW  Ww   \\\    ///   wWw  wWw    (o)__(o)  
      _||\     (O)(O)   ((O)  (O))   (O)  (O)    (__  __)  
@@ -1462,7 +1465,7 @@ _________ _________  _______            _________
        (               (_/    \_)    `-..-'       (       
 
 </pre>
-<b><a href="jimner/fonts/Fun Faces.js" alt="Fun Faces" target="_blank">Fun Faces</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Fun Faces.json" alt="Fun Faces" target="_blank">Fun Faces</a></b>
 <pre>
        _      wW  Ww   \\\    ///   wWw  wWw    (o)__(o)  
      _||\     (O)(O)   ((O)  (O))   (O)  (O)    (__  __)  
@@ -1473,7 +1476,7 @@ _________ _________  _______            _________
     `--.)              (_/    \_)    `-..-'       (       
 
 </pre>
-<b><a href="jimner/fonts/Fuzzy.js" alt="Fuzzy" target="_blank">Fuzzy</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Fuzzy.json" alt="Fuzzy" target="_blank">Fuzzy</a></b>
 <pre>
    .-.  _                    .-.  
    : : :_;                  .' `. 
@@ -1484,7 +1487,7 @@ _________ _________  _______            _________
                                   
 
 </pre>
-<b><a href="jimner/fonts/Galactus.js" alt="Galactus" target="_blank">Galactus</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Galactus.json" alt="Galactus" target="_blank">Galactus</a></b>
 <pre>
         '|¯¯¯¯|       |¯¯¯¯|     |¯¯¯¯|\|¯¯¯¯|/|¯¯¯¯|            '|¯¯¯¯| '|¯¯¯¯|           |\¯¯.·´|¯¯¯¯|`·.¯¯/|          
         '|       |    |       |  |       | |       | |       |   '|       | '|       |     |:'\/::::|       |:::'\/::|   
@@ -1497,7 +1500,7 @@ _________ _________  _______            _________
  ¯¯¯¯ ¯¯¯¯             ¯¯¯¯'      ¯¯¯¯            ¯¯¯¯'            ¯¯¯¯ ¯¯¯¯                        ¯¯¯¯                 
 
 </pre>
-<b><a href="jimner/fonts/Georgi16.js" alt="Georgi16" target="_blank">Georgi16</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Georgi16.json" alt="Georgi16" target="_blank">Georgi16</a></b>
 <pre>
                                                     
                                                     
@@ -1517,7 +1520,7 @@ _________ _________  _______            _________
                                                     
 
 </pre>
-<b><a href="jimner/fonts/Georgia11.js" alt="Georgia11" target="_blank">Georgia11</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Georgia11.json" alt="Georgia11" target="_blank">Georgia11</a></b>
 <pre>
                                                           
             ,,                                            
@@ -1532,7 +1535,7 @@ _________ _________  _______            _________
                                                           
 
 </pre>
-<b><a href="jimner/fonts/Ghost.js" alt="Ghost" target="_blank">Ghost</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Ghost.json" alt="Ghost" target="_blank">Ghost</a></b>
 <pre>
                        _   .-')                    .-') _     
                       ( '.( OO )_                 (  OO) )    
@@ -1545,7 +1548,7 @@ _________ _________  _______            _________
  `-----'     `--'      `--'   `--'    `-----'        `--'     
 
 </pre>
-<b><a href="jimner/fonts/Ghoulish.js" alt="Ghoulish" target="_blank">Ghoulish</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Ghoulish.json" alt="Ghoulish" target="_blank">Ghoulish</a></b>
 <pre>
   .-,.-.,-. .'(    )\   )\        .-.   .-,.-.,-.  
   ).-, ,-.( \  )  (  ',/ /    ,'  /  )  ) ,, ,. (  
@@ -1556,7 +1559,7 @@ _________ _________  _______            _________
                                                    
 
 </pre>
-<b><a href="jimner/fonts/Glenyn.js" alt="Glenyn" target="_blank">Glenyn</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Glenyn.json" alt="Glenyn" target="_blank">Glenyn</a></b>
 <pre>
 ____  ____  _     _     ____  
 |_  \ |___\ |\/\  || \  |_ _\ 
@@ -1564,14 +1567,14 @@ ____  ____  _     _     ____
 \__/  |/    |/v\/ |___/   |/  
 
 </pre>
-<b><a href="jimner/fonts/Glue.js" alt="Glue" target="_blank">Glue</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Glue.json" alt="Glue" target="_blank">Glue</a></b>
 <pre>
  "   |¯|    |¯|   '/¯/|¯|\¯\ '    |¯| |¯|     '/¯/|¯|\¯\°   
  |¯| |! |   |¯|   |! | |_| |! |   |! | |! |   |_| |! | |_|‘ 
  |_|/_/'    |_|   |_|    "|_|     '\_\|_|     "   |_|       
 
 </pre>
-<b><a href="jimner/fonts/Goofy.js" alt="Goofy" target="_blank">Goofy</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Goofy.json" alt="Goofy" target="_blank">Goofy</a></b>
 <pre>
 ___     _ _      __           _     ___    _ _        __ 
   (_   |  (_    _)  |        |  |  |   |  |  (__    __)  
@@ -1581,7 +1584,7 @@ ___     _ _      __           _     ___    _ _        __
 _\    /__ (      )_ |  |__|  |_ _\       /__ ___|  |____ 
 
 </pre>
-<b><a href="jimner/fonts/Gothic.js" alt="Gothic" target="_blank">Gothic</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Gothic.json" alt="Gothic" target="_blank">Gothic</a></b>
 <pre>
                                    
  _-_,,                         ,   
@@ -1594,7 +1597,7 @@ _\    /__ (      )_ |  |__|  |_ _\       /__ ___|  |____
                                    
 
 </pre>
-<b><a href="jimner/fonts/Graceful.js" alt="Graceful" target="_blank">Graceful</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Graceful.json" alt="Graceful" target="_blank">Graceful</a></b>
 <pre>
    __    __    _  _   _  _   ____  
  _(  )  (  )  ( \/ ) / )( \ (_  _) 
@@ -1602,7 +1605,7 @@ _\    /__ (      )_ |  |__|  |_ _\       /__ ___|  |____
 \____/  (__)  \_)(_/ \____/  (__)  
 
 </pre>
-<b><a href="jimner/fonts/Gradient.js" alt="Gradient" target="_blank">Gradient</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Gradient.json" alt="Gradient" target="_blank">Gradient</a></b>
 <pre>
 eeeeeee. eee. eee......eee. eee..eee. eeeeeeeee. 
 @@@@@@@: @@@: @@@@::::@@@@: @@@::@@@: @@@@@@@@@: 
@@ -1615,7 +1618,7 @@ eeeeeee. eee. eee......eee. eee..eee. eeeeeeeee.
                                                  
 
 </pre>
-<b><a href="jimner/fonts/Graffiti.js" alt="Graffiti" target="_blank">Graffiti</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Graffiti.json" alt="Graffiti" target="_blank">Graffiti</a></b>
 <pre>
      ____. .__                      __    
     |    | |__|   _____    __ __  _/  |_  
@@ -1625,7 +1628,7 @@ eeeeeee. eee. eee......eee. eee..eee. eeeeeeeee.
                       \/                  
 
 </pre>
-<b><a href="jimner/fonts/Greek.js" alt="Greek" target="_blank">Greek</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Greek.json" alt="Greek" target="_blank">Greek</a></b>
 <pre>
                                        
     ___                                
@@ -1638,7 +1641,7 @@ eeeeeee. eee. eee......eee. eee..eee. eeeeeeeee.
                  |_|                   
 
 </pre>
-<b><a href="jimner/fonts/HeX's Font.js" alt="HeX's Font" target="_blank">HeX's Font</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/HeX's Font.json" alt="HeX's Font" target="_blank">HeX's Font</a></b>
 <pre>
             |\¯¯¯¯¯¯¯¯\_'          /¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\ '                          /¯¯¯¯¯¯¯¯¯¯¯¯¯'\                    |\¯¯¯¯¯¯¯¯\'\¯¯¯¯¯¯¯¯\  '                  /¯¯¯¯¯¯¯¯¯¯¯¯\   /¯¯¯¯¯¯¯¯\ '                   
             '\ \              \'  |\___'''/\          '\\_____/|_             ° '/                          \ '       '\'\'             |'|            ° '| _   |\   °''                 '\/               '/|_  
@@ -1653,7 +1656,7 @@ eeeeeee. eee. eee......eee. eee..eee. eeeeeeeee.
  \|:::::::::|¯¯¯¯¯¯¯¯³  '         '|:::::::::::::::::::::::::::::|/_'                                      _'                  ¯¯¯¯¯¯¯¯°|:::::::::|/                                                     '       
 
 </pre>
-<b><a href="jimner/fonts/Heart Left.js" alt="Heart Left" target="_blank">Heart Left</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Heart Left.json" alt="Heart Left" target="_blank">Heart Left</a></b>
 <pre>
  .-.-.   .-.-.   .-.-.   .-.-.   .-.-.  
 ( J .'  ( i .'  ( m .'  ( u .'  ( t .'  
@@ -1661,7 +1664,7 @@ eeeeeee. eee. eee......eee. eee..eee. eeeeeeeee.
                                         
 
 </pre>
-<b><a href="jimner/fonts/Heart Right.js" alt="Heart Right" target="_blank">Heart Right</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Heart Right.json" alt="Heart Right" target="_blank">Heart Right</a></b>
 <pre>
 .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   
 '. J )  '. i )  '. m )  '. u )  '. t )  
@@ -1669,7 +1672,7 @@ eeeeeee. eee. eee......eee. eee..eee. eeeeeeeee.
                                         
 
 </pre>
-<b><a href="jimner/fonts/Hellfire.js" alt="Hellfire" target="_blank">Hellfire</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Hellfire.json" alt="Hellfire" target="_blank">Hellfire</a></b>
 <pre>
           |¯¯¯¯|      |¯¯¯¯|      \¯¯¯¯\       '/¯¯¯¯/             |¯¯¯¯|'|¯¯¯¯|°        /¯¯¯¯/|¯¯¯¯|\¯¯¯¯\              
           | .:::. |   | .:::. |    | .::...||¯¯¯|| .:::  |‘        |.::....|'|.::....|° |\____\|::....:|/____/|'         
@@ -1679,7 +1682,7 @@ eeeeeee. eee. eee......eee. eee..eee. eeeeeeeee.
 '\|_________|‘        |____|     '|____'|/      '\|____'|'        '\|_________|                   |____|“                
 
 </pre>
-<b><a href="jimner/fonts/Henry 3D.js" alt="Henry 3D" target="_blank">Henry 3D</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Henry 3D.json" alt="Henry 3D" target="_blank">Henry 3D</a></b>
 <pre>
      _     __                               _     
      L]    LJ     _ _____       _    _     FJ_    
@@ -1691,11 +1694,11 @@ J\_____/  J__L  J__L LJ J__L  J\____,__L  \_____/
                                                   
 
 </pre>
-<b><a href="jimner/fonts/Hex.js" alt="Hex" target="_blank">Hex</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Hex.json" alt="Hex" target="_blank">Hex</a></b>
 <pre>
 4A 69 6D 75 74 
 </pre>
-<b><a href="jimner/fonts/Hieroglyphs.js" alt="Hieroglyphs" target="_blank">Hieroglyphs</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Hieroglyphs.json" alt="Hieroglyphs" target="_blank">Hieroglyphs</a></b>
 <pre>
   _     ;.  ,-==.     <~)_              
  `-)   ; |   (  (\     ( v~\            
@@ -1703,7 +1706,7 @@ J\_____/  J__L  J__L LJ J__L  J\____,__L  \_____/
 (___)    |   _]_]`\\    /\    /______\  
 
 </pre>
-<b><a href="jimner/fonts/Hollywood.js" alt="Hollywood" target="_blank">Hollywood</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Hollywood.json" alt="Hollywood" target="_blank">Hollywood</a></b>
 <pre>
            _______                                                  
           (,     /'                                              /' 
@@ -1717,7 +1720,7 @@ J\_____/  J__L  J__L LJ J__L  J\____,__L  \_____/
                                                                     
 
 </pre>
-<b><a href="jimner/fonts/Horizontal Left.js" alt="Horizontal Left" target="_blank">Horizontal Left</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Horizontal Left.json" alt="Horizontal Left" target="_blank">Horizontal Left</a></b>
 <pre>
  _    __    _     _    _______    ______     _         
 | /___\ \  | |___| |  `._   __|  /_____ `.  | /_____   
@@ -1727,7 +1730,7 @@ J\_____/  J__L  J__L LJ J__L  J\____,__L  \_____/
                                                        
 
 </pre>
-<b><a href="jimner/fonts/Horizontal Right.js" alt="Horizontal Right" target="_blank">Horizontal Right</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Horizontal Right.json" alt="Horizontal Right" target="_blank">Horizontal Right</a></b>
 <pre>
  __    _    _     _    _______     ______          _   
 / /___\ |  | |___| |  |__   _.'  .' _____\   _____\ |  
@@ -1737,7 +1740,7 @@ J\_____/  J__L  J__L LJ J__L  J\____,__L  \_____/
                                                        
 
 </pre>
-<b><a href="jimner/fonts/ICL-1900.js" alt="ICL-1900" target="_blank">ICL-1900</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/ICL-1900.json" alt="ICL-1900" target="_blank">ICL-1900</a></b>
 <pre>
 J i m u t 
   *       
@@ -1754,7 +1757,7 @@ J i m u t
   *       
 
 </pre>
-<b><a href="jimner/fonts/Impossible.js" alt="Impossible" target="_blank">Impossible</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Impossible.json" alt="Impossible" target="_blank">Impossible</a></b>
 <pre>
              _                _              _   _           _                       _        
             /\ \             /\ \           /\_\/\_\ _      /\_\                    /\ \      
@@ -1770,7 +1773,7 @@ J i m u t
                                                                                               
 
 </pre>
-<b><a href="jimner/fonts/Invita.js" alt="Invita" target="_blank">Invita</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Invita.json" alt="Invita" target="_blank">Invita</a></b>
 <pre>
       _____                       
      (, /      ,                  
@@ -1780,7 +1783,7 @@ J i m u t
 (__ /                             
 
 </pre>
-<b><a href="jimner/fonts/Isometric1.js" alt="Isometric1" target="_blank">Isometric1</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Isometric1.json" alt="Isometric1" target="_blank">Isometric1</a></b>
 <pre>
        ___                       ___            ___            ___      
       /\  \         ___         /\__\          /\__\          /\  \     
@@ -1795,7 +1798,7 @@ J i m u t
                                 \/__/          \/__/                    
 
 </pre>
-<b><a href="jimner/fonts/Isometric2.js" alt="Isometric2" target="_blank">Isometric2</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Isometric2.json" alt="Isometric2" target="_blank">Isometric2</a></b>
 <pre>
                                ___            ___                     
     ___                       /\  \          /\  \                    
@@ -1810,7 +1813,7 @@ J i m u t
     \/__/        \/__/        \/__/          \/__/            \/__/   
 
 </pre>
-<b><a href="jimner/fonts/Isometric3.js" alt="Isometric3" target="_blank">Isometric3</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Isometric3.json" alt="Isometric3" target="_blank">Isometric3</a></b>
 <pre>
     ___                        ___            ___                   
    /  /\        ___           /__/\          /__/\           ___    
@@ -1825,7 +1828,7 @@ J i m u t
                               \__\/          \__\/                  
 
 </pre>
-<b><a href="jimner/fonts/Isometric4.js" alt="Isometric4" target="_blank">Isometric4</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Isometric4.json" alt="Isometric4" target="_blank">Isometric4</a></b>
 <pre>
                                   ___            ___                     
        ___           ___         /  /\          /  /\           ___      
@@ -1840,7 +1843,7 @@ J i m u t
                                  \__\/          \__\/                    
 
 </pre>
-<b><a href="jimner/fonts/Italic.js" alt="Italic" target="_blank">Italic</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Italic.json" alt="Italic" target="_blank">Italic</a></b>
 <pre>
                        
    /   '   _       _/  
@@ -1848,7 +1851,7 @@ J i m u t
                        
 
 </pre>
-<b><a href="jimner/fonts/Ivrit.js" alt="Ivrit" target="_blank">Ivrit</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Ivrit.json" alt="Ivrit" target="_blank">Ivrit</a></b>
 <pre>
       _    _                          _    
      | |  (_)   _ __ ___     _   _   | |_  
@@ -1858,20 +1861,20 @@ J i m u t
                                            
 
 </pre>
-<b><a href="jimner/fonts/JS Block Letters.js" alt="JS Block Letters" target="_blank">JS Block Letters</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/JS Block Letters.json" alt="JS Block Letters" target="_blank">JS Block Letters</a></b>
 <pre>
   __  _  __  __  __ __  _____ 
 __) || ||  \/  ||  |  ||_   _|
 \___/|_||_|\/|_| \___/   |_|  
 </pre>
-<b><a href="jimner/fonts/JS Bracket Letters.js" alt="JS Bracket Letters" target="_blank">JS Bracket Letters</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/JS Bracket Letters.json" alt="JS Bracket Letters" target="_blank">JS Bracket Letters</a></b>
 <pre>
    .-..-..-.   .-..-. .-. .---. 
 .-.| || ||  `.'  || { } |{_   _}
 | {} || || |\ /| || {_} |  | |  
 `----'`-'`-' ` `-'`-----'  `-'  
 </pre>
-<b><a href="jimner/fonts/JS Capital Curves.js" alt="JS Capital Curves" target="_blank">JS Capital Curves</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/JS Capital Curves.json" alt="JS Capital Curves" target="_blank">JS Capital Curves</a></b>
 <pre>
   ____,  ____,  _____,    __   _,  ____, 
  (-|    (-|    (-| | |   (-|  |   (-|    
@@ -1879,7 +1882,7 @@ __) || ||  \/  ||  |  ||_   _|
 (__/    (      (                  (      
 
 </pre>
-<b><a href="jimner/fonts/JS Cursive.js" alt="JS Cursive" target="_blank">JS Cursive</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/JS Cursive.json" alt="JS Cursive" target="_blank">JS Cursive</a></b>
 <pre>
                                
     .   .   ,____,         -/- 
@@ -1889,7 +1892,7 @@ __) || ||  \/  ||  |  ||_   _|
                                
 
 </pre>
-<b><a href="jimner/fonts/JS Stick Letters.js" alt="JS Stick Letters" target="_blank">JS Stick Letters</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/JS Stick Letters.json" alt="JS Stick Letters" target="_blank">JS Stick Letters</a></b>
 <pre>
                       ___  
    |  |   |\/|  |  |   |   
@@ -1897,7 +1900,7 @@ __) || ||  \/  ||  |  ||_   _|
                            
 
 </pre>
-<b><a href="jimner/fonts/Jacky.js" alt="Jacky" target="_blank">Jacky</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Jacky.json" alt="Jacky" target="_blank">Jacky</a></b>
 <pre>
   ________     _____      __    __      __    __    ________   
  (___  ___)   (_   _)     \ \  / /      ) )  ( (   (___  ___)  
@@ -1909,7 +1912,7 @@ __) || ||  \/  ||  |  ||_   _|
                                                                
 
 </pre>
-<b><a href="jimner/fonts/Jazmine.js" alt="Jazmine" target="_blank">Jazmine</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Jazmine.json" alt="Jazmine" target="_blank">Jazmine</a></b>
 <pre>
                                 
   o   o                     o   
@@ -1923,7 +1926,7 @@ oP'   8  8  8  8  `YooP'    8
 :::: ::: :::::::: ::::::: ::::: 
 
 </pre>
-<b><a href="jimner/fonts/Jerusalem.js" alt="Jerusalem" target="_blank">Jerusalem</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Jerusalem.json" alt="Jerusalem" target="_blank">Jerusalem</a></b>
 <pre>
                                        
      _   ___    __   __.  ___  __   __ 
@@ -1934,7 +1937,7 @@ oP'   8  8  8  8  `YooP'    8
           |_|                          
 
 </pre>
-<b><a href="jimner/fonts/Katakana.js" alt="Katakana" target="_blank">Katakana</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Katakana.json" alt="Katakana" target="_blank">Katakana</a></b>
 <pre>
               ######    #########  ##########       #      
 ##########      #               #           #    #######   
@@ -1946,7 +1949,7 @@ oP'   8  8  8  8  `YooP'    8
                                                            
 
 </pre>
-<b><a href="jimner/fonts/Kban.js" alt="Kban" target="_blank">Kban</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Kban.json" alt="Kban" target="_blank">Kban</a></b>
 <pre>
    '||'   ||                           .    
     ||   ...   .. .. ..    ... ...   .||.   
@@ -1957,7 +1960,7 @@ oP'   8  8  8  8  `YooP'    8
                                             
 
 </pre>
-<b><a href="jimner/fonts/Keyboard.js" alt="Keyboard" target="_blank">Keyboard</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Keyboard.json" alt="Keyboard" target="_blank">Keyboard</a></b>
 <pre>
                                                   
  _______   _______   _______   _______   _______  
@@ -1970,7 +1973,7 @@ oP'   8  8  8  8  `YooP'    8
                                                   
 
 </pre>
-<b><a href="jimner/fonts/Knob.js" alt="Knob" target="_blank">Knob</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Knob.json" alt="Knob" target="_blank">Knob</a></b>
 <pre>
  ___         _______ _   _________   _________           _  
 (  _)       (_______(_) (______   ) (  _______)  _______| | 
@@ -1978,7 +1981,7 @@ oP'   8  8  8  8  `YooP'    8
 (_________)             (_________) (_________)         |_| 
 
 </pre>
-<b><a href="jimner/fonts/LCD.js" alt="LCD" target="_blank">LCD</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/LCD.json" alt="LCD" target="_blank">LCD</a></b>
 <pre>
          _                         
     |                         |    
@@ -1988,7 +1991,7 @@ oP'   8  8  8  8  `YooP'    8
                                    
 
 </pre>
-<b><a href="jimner/fonts/Larry 3D.js" alt="Larry 3D" target="_blank">Larry 3D</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Larry 3D.json" alt="Larry 3D" target="_blank">Larry 3D</a></b>
 <pre>
  _____                                      __       
 /\___ \     __                             /\ \__    
@@ -2001,7 +2004,7 @@ oP'   8  8  8  8  `YooP'    8
                                                      
 
 </pre>
-<b><a href="jimner/fonts/Lean.js" alt="Lean" target="_blank">Lean</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Lean.json" alt="Lean" target="_blank">Lean</a></b>
 <pre>
                                                                        
          _/        _/                                         _/       
@@ -2013,7 +2016,7 @@ _/    _/        _/        _/    _/    _/     _/    _/      _/
                                                                        
 
 </pre>
-<b><a href="jimner/fonts/Letters.js" alt="Letters" target="_blank">Letters</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Letters.json" alt="Letters" target="_blank">Letters</a></b>
 <pre>
     JJJ  iii                        tt     
     JJJ       mm mm mmmm   uu   uu  tt     
@@ -2023,7 +2026,7 @@ JJ  JJJ  iii  mmm  mm  mm  uu   uu  tt
                                            
 
 </pre>
-<b><a href="jimner/fonts/Lil Devil.js" alt="Lil Devil" target="_blank">Lil Devil</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Lil Devil.json" alt="Lil Devil" target="_blank">Lil Devil</a></b>
 <pre>
              _       <-. (`-')               (`-')       
             (_)         \(OO )_       .->    ( OO).->    
@@ -2035,7 +2038,7 @@ JJ  JJJ  iii  mmm  mm  mm  uu   uu  tt
  `-----'    `--'     `--'   `--'  `-----'       `--'     
 
 </pre>
-<b><a href="jimner/fonts/Line Blocks.js" alt="Line Blocks" target="_blank">Line Blocks</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Line Blocks.json" alt="Line Blocks" target="_blank">Line Blocks</a></b>
 <pre>
       _   _____   _________    _    _   _______  
      | |   | |   | | | | | \  | |  | |    | |    
@@ -2044,7 +2047,7 @@ JJ  JJJ  iii  mmm  mm  mm  uu   uu  tt
                                                  
 
 </pre>
-<b><a href="jimner/fonts/Linux.js" alt="Linux" target="_blank">Linux</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Linux.json" alt="Linux" target="_blank">Linux</a></b>
 <pre>
   .-. .-. .-.-.-. .-..-. .---. 
  ,| | | | | | | | | || | `| |' 
@@ -2052,7 +2055,7 @@ JJ  JJJ  iii  mmm  mm  mm  uu   uu  tt
                                
 
 </pre>
-<b><a href="jimner/fonts/Lockergnome.js" alt="Lockergnome" target="_blank">Lockergnome</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Lockergnome.json" alt="Lockergnome" target="_blank">Lockergnome</a></b>
 <pre>
     ::| ++               :|   
 ::> ::| :|  :\/|  :\:|  :::|  
@@ -2060,7 +2063,7 @@ JJ  JJJ  iii  mmm  mm  mm  uu   uu  tt
                               
 
 </pre>
-<b><a href="jimner/fonts/Madrid.js" alt="Madrid" target="_blank">Madrid</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Madrid.json" alt="Madrid" target="_blank">Madrid</a></b>
 <pre>
 /=\                 |-  
 _ |  =  /=\=\  | |  |   
@@ -2068,7 +2071,7 @@ _ |  =  /=\=\  | |  |
                         
 
 </pre>
-<b><a href="jimner/fonts/Marquee.js" alt="Marquee" target="_blank">Marquee</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Marquee.json" alt="Marquee" target="_blank">Marquee</a></b>
 <pre>
      .::                              .::   
      .::  .:                          .::   
@@ -2080,7 +2083,7 @@ _ |  =  /=\=\  | |  |
                                             
 
 </pre>
-<b><a href="jimner/fonts/Maxfour.js" alt="Maxfour" target="_blank">Maxfour</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Maxfour.json" alt="Maxfour" target="_blank">Maxfour</a></b>
 <pre>
 ~~|~ '                  |  
   |  | |/~\ /~\  |   | ~|~ 
@@ -2088,7 +2091,7 @@ _ |  =  /=\=\  | |  |
                            
 
 </pre>
-<b><a href="jimner/fonts/MeDi.js" alt="MeDi" target="_blank">MeDi</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/MeDi.json" alt="MeDi" target="_blank">MeDi</a></b>
 <pre>
           '|¯¯¯¯|      |¯¯¯¯|      '/¯¯¯¯/|¯¯¯¯|\¯¯¯¯\'            \¯¯¯¯\ '|¯¯¯¯|                 '|¯¯¯¯|'          
           '|       |   |¯¯¯¯|      |       | |       | |       |    |       | |       |   |¯¯¯¯||       ||¯¯¯¯|     
@@ -2096,14 +2099,14 @@ _ |  =  /=\=\  | |  |
 '\____\/____/'         |____|      |____| |____| |____|             '\____\|____|                ' |____|'          
 
 </pre>
-<b><a href="jimner/fonts/Mer.js" alt="Mer" target="_blank">Mer</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Mer.json" alt="Mer" target="_blank">Mer</a></b>
 <pre>
 |¯¯¯¯¯¯||      O     |¯¯¯\/¯¯¯|       |'¯¯|¯¯'|°   |¯¯¯¯¯|°     
 /¯¯|   |¯   |¯¯¯¯|   |            '|  |         |  |         |  
 \____|      |____|   |.__|\/|__.|      \____/ '     ¯|__|¯      
 
 </pre>
-<b><a href="jimner/fonts/Merlin1.js" alt="Merlin1" target="_blank">Merlin1</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Merlin1.json" alt="Merlin1" target="_blank">Merlin1</a></b>
 <pre>
       ___     __       ___      ___   ____  ____    ___________   
      |"  |   |" \     |"  \    /"  | ("  _||_ " |  ("     _   ")  
@@ -2115,7 +2118,7 @@ _ |  =  /=\=\  | |  |
                                                                   
 
 </pre>
-<b><a href="jimner/fonts/Merlin2.js" alt="Merlin2" target="_blank">Merlin2</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Merlin2.json" alt="Merlin2" target="_blank">Merlin2</a></b>
 <pre>
     _         _        _                   _         _      
  __/\\__    _/\\_    _/\\___ _____    ___ /\\     __/\\__   
@@ -2128,14 +2131,14 @@ _ |  =  /=\=\  | |  |
                                                             
 
 </pre>
-<b><a href="jimner/fonts/Mike.js" alt="Mike" target="_blank">Mike</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Mike.json" alt="Mike" target="_blank">Mike</a></b>
 <pre>
                     _  
   |  _|  ||\  |/|    | 
   |                    
 
 </pre>
-<b><a href="jimner/fonts/Mini.js" alt="Mini" target="_blank">Mini</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Mini.json" alt="Mini" target="_blank">Mini</a></b>
 <pre>
                               
    |   o   ._ _          _|_  
@@ -2143,7 +2146,7 @@ _ |  =  /=\=\  | |  |
                               
 
 </pre>
-<b><a href="jimner/fonts/Mirror.js" alt="Mirror" target="_blank">Mirror</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Mirror.json" alt="Mirror" target="_blank">Mirror</a></b>
 <pre>
  _       _                         _  
 | |     (_)   ___ __ _   _   _   _| | 
@@ -2153,11 +2156,11 @@ _ |  =  /=\=\  | |  |
                                       
 
 </pre>
-<b><a href="jimner/fonts/Mnemonic.js" alt="Mnemonic" target="_blank">Mnemonic</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Mnemonic.json" alt="Mnemonic" target="_blank">Mnemonic</a></b>
 <pre>
 Jimut
 </pre>
-<b><a href="jimner/fonts/Modular.js" alt="Modular" target="_blank">Modular</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Modular.json" alt="Modular" target="_blank">Modular</a></b>
 <pre>
      ___   ___    __   __   __   __   _______  
     |   | |   |  |  |_|  | |  | |  | |       | 
@@ -2168,11 +2171,11 @@ Jimut
 |_______| |___|  |_|   |_| |_______|   |___|   
 
 </pre>
-<b><a href="jimner/fonts/Morse.js" alt="Morse" target="_blank">Morse</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Morse.json" alt="Morse" target="_blank">Morse</a></b>
 <pre>
 .--- .. -- ..- - 
 </pre>
-<b><a href="jimner/fonts/Moscow.js" alt="Moscow" target="_blank">Moscow</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Moscow.json" alt="Moscow" target="_blank">Moscow</a></b>
 <pre>
                                    
 # # #  #   #  #   #  #   #  #####  
@@ -2183,7 +2186,7 @@ Jimut
 
 </pre>
 'J'
-<b><a href="jimner/fonts/Mshebrew210.js" alt="Mshebrew210" target="_blank">Mshebrew210</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Mshebrew210.json" alt="Mshebrew210" target="_blank">Mshebrew210</a></b>
 <pre>
           
 | \/ | \> 
@@ -2191,7 +2194,7 @@ Jimut
 |         
 
 </pre>
-<b><a href="jimner/fonts/Muzzle.js" alt="Muzzle" target="_blank">Muzzle</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Muzzle.json" alt="Muzzle" target="_blank">Muzzle</a></b>
 <pre>
  __                          
    |  >  |\ /|  |  |  >>|<<  
@@ -2199,7 +2202,7 @@ Jimut
 |__'  |  |   |  '<<'    |    
 
 </pre>
-<b><a href="jimner/fonts/NScript.js" alt="NScript" target="_blank">NScript</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/NScript.json" alt="NScript" target="_blank">NScript</a></b>
 <pre>
      gg                                                       
     dP8,                                                I8    
@@ -2219,7 +2222,7 @@ I8,      ,8'
   "Y888P"                                                     
 
 </pre>
-<b><a href="jimner/fonts/NT Greek.js" alt="NT Greek" target="_blank">NT Greek</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/NT Greek.json" alt="NT Greek" target="_blank">NT Greek</a></b>
 <pre>
                                        
     ___                                
@@ -2232,7 +2235,7 @@ I8,      ,8'
                  |_|                   
 
 </pre>
-<b><a href="jimner/fonts/NV Script.js" alt="NV Script" target="_blank">NV Script</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/NV Script.json" alt="NV Script" target="_blank">NV Script</a></b>
 <pre>
      gg                                                       
     dP8,                                                I8    
@@ -2252,7 +2255,7 @@ I8,      ,8'
   "Y888P"                                                     
 
 </pre>
-<b><a href="jimner/fonts/Nancyj.js" alt="Nancyj" target="_blank">Nancyj</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Nancyj.json" alt="Nancyj" target="_blank">Nancyj</a></b>
 <pre>
        dP  oo                          dP    
        88                              88    
@@ -2264,7 +2267,7 @@ I8,      ,8'
                                              
 
 </pre>
-<b><a href="jimner/fonts/Nancyj-Fancy.js" alt="Nancyj-Fancy" target="_blank">Nancyj-Fancy</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Nancyj-Fancy.json" alt="Nancyj-Fancy" target="_blank">Nancyj-Fancy</a></b>
 <pre>
 MMMMMMMM""M  oo                          dP    
 MMMMMMMM  M                              88    
@@ -2276,7 +2279,7 @@ MMMMMMMMMMM
                                                
 
 </pre>
-<b><a href="jimner/fonts/Nancyj-Underlined.js" alt="Nancyj-Underlined" target="_blank">Nancyj-Underlined</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Nancyj-Underlined.json" alt="Nancyj-Underlined" target="_blank">Nancyj-Underlined</a></b>
 <pre>
        dP  oo                          dP    
        88                              88    
@@ -2288,7 +2291,7 @@ oooooooooo ooo ooooooooooo ooooooooo ooooooo
                                              
 
 </pre>
-<b><a href="jimner/fonts/Nipples.js" alt="Nipples" target="_blank">Nipples</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Nipples.json" alt="Nipples" target="_blank">Nipples</a></b>
 <pre>
      {__                              {__   
      {__  {_                          {__   
@@ -2300,7 +2303,7 @@ oooooooooo ooo ooooooooooo ooooooooo ooooooo
                                             
 
 </pre>
-<b><a href="jimner/fonts/O8.js" alt="O8" target="_blank">O8</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/O8.json" alt="O8" target="_blank">O8</a></b>
 <pre>
   ooooo   o88                                  o8    
    888    oooo   oo ooo oooo    oooo  oooo   o888oo  
@@ -2310,7 +2313,7 @@ oooooooooo ooo ooooooooooo ooooooooo ooooooo
 8o888                                                
 
 </pre>
-<b><a href="jimner/fonts/OS2.js" alt="OS2" target="_blank">OS2</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/OS2.json" alt="OS2" target="_blank">OS2</a></b>
 <pre>
 _____ooo_ _oo__ __________ ________ _oo____ 
 ______oo_ _____ oo_oo_oo__ oo____o_ _oo____ 
@@ -2321,11 +2324,11 @@ _ooooo___ oooo_ oo______o_ oo_ooo__ __ooo__
 _________ _____ __________ ________ _______ 
 
 </pre>
-<b><a href="jimner/fonts/Octal.js" alt="Octal" target="_blank">Octal</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Octal.json" alt="Octal" target="_blank">Octal</a></b>
 <pre>
 112 151 155 165 164 
 </pre>
-<b><a href="jimner/fonts/Ogre.js" alt="Ogre" target="_blank">Ogre</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Ogre.json" alt="Ogre" target="_blank">Ogre</a></b>
 <pre>
    __    _                       _    
    \ \  (_)  _ __ ___    _   _  | |_  
@@ -2335,7 +2338,7 @@ _________ _____ __________ ________ _______
                                       
 
 </pre>
-<b><a href="jimner/fonts/Old Banner.js" alt="Old Banner" target="_blank">Old Banner</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Old Banner.json" alt="Old Banner" target="_blank">Old Banner</a></b>
 <pre>
       #                            
       #  #  #    #  #    #  #####  
@@ -2346,7 +2349,7 @@ _________ _____ __________ ________ _______
  #####   #  #    #   ####     #    
 
 </pre>
-<b><a href="jimner/fonts/Patorjk's Cheese.js" alt="Patorjk's Cheese" target="_blank">Patorjk's Cheese</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Patorjk's Cheese.json" alt="Patorjk's Cheese" target="_blank">Patorjk's Cheese</a></b>
 <pre>
                                                                                
         ____   ____       ______  _______     ____   ____   _________________  
@@ -2364,7 +2367,7 @@ _________ _____ __________ ________ _______
                                                                                
 
 </pre>
-<b><a href="jimner/fonts/Patorjk-HeX.js" alt="Patorjk-HeX" target="_blank">Patorjk-HeX</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Patorjk-HeX.json" alt="Patorjk-HeX" target="_blank">Patorjk-HeX</a></b>
 <pre>
                                                                                                                   
           _____        ____________            ___________          ______   _____        ________    ________    
@@ -2380,7 +2383,7 @@ _________ _____ __________ ________ _______
   \|_____|                                                                     |___|/                             
 
 </pre>
-<b><a href="jimner/fonts/Pawp.js" alt="Pawp" target="_blank">Pawp</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Pawp.json" alt="Pawp" target="_blank">Pawp</a></b>
 <pre>
                                         
  ______    _                       _    
@@ -2393,7 +2396,7 @@ _________ _____ __________ ________ _______
                                         
 
 </pre>
-<b><a href="jimner/fonts/Peaks.js" alt="Peaks" target="_blank">Peaks</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Peaks.json" alt="Peaks" target="_blank">Peaks</a></b>
 <pre>
      /^^                              /^^   
      /^^  /^                          /^^   
@@ -2405,7 +2408,7 @@ _________ _____ __________ ________ _______
                                             
 
 </pre>
-<b><a href="jimner/fonts/Peaks Slant.js" alt="Peaks Slant" target="_blank">Peaks Slant</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Peaks Slant.json" alt="Peaks Slant" target="_blank">Peaks Slant</a></b>
 <pre>
      _________/\/\_      _/\/\___      ________________      ____________      ___/\/\_____ 
     _________/\/\_      ________      _/\/\/\__/\/\___      _/\/\__/\/\_      _/\/\/\/\/\_  
@@ -2415,7 +2418,7 @@ _________ _____ __________ ________ _______
 ______________      ________      ________________      ____________      ____________      
 
 </pre>
-<b><a href="jimner/fonts/Pebbles.js" alt="Pebbles" target="_blank">Pebbles</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Pebbles.json" alt="Pebbles" target="_blank">Pebbles</a></b>
 <pre>
   OooOoo                               
       O   o                            
@@ -2429,7 +2432,7 @@ O     o   O    o  O  O  O   o     o
                                        
 
 </pre>
-<b><a href="jimner/fonts/Pepper.js" alt="Pepper" target="_blank">Pepper</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Pepper.json" alt="Pepper" target="_blank">Pepper</a></b>
 <pre>
   _                   
    /  .  _ _      _/_ 
@@ -2437,7 +2440,7 @@ O     o   O    o  O  O  O   o     o
                       
 
 </pre>
-<b><a href="jimner/fonts/Poison.js" alt="Poison" target="_blank">Poison</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Poison.json" alt="Poison" target="_blank">Poison</a></b>
 <pre>
                                                     
      @@@   @@@   @@@@@@@@@@    @@@  @@@   @@@@@@@   
@@ -2453,7 +2456,7 @@ O     o   O    o  O  O  O   o     o
                                                     
 
 </pre>
-<b><a href="jimner/fonts/PsY.js" alt="PsY" target="_blank">PsY</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/PsY.json" alt="PsY" target="_blank">PsY</a></b>
 <pre>
       .:;¦\¯`¯'¯'\\    ’   ¦\\¯`¯'¯'\\         '¦\\`'¯`'¯¯'\:;;'/¯¯\/¯`'¯`'¯¯'\; '      :;/¯`'¯`'¯`/¦.:;'¦\¯`'¯`'¯'\'    :;/¯`'¯`;'/¦¦¯`'¯`'¯¦¦\¯`'¯`’¯\\_      
       .:;¦;\',_, .:;\;  ’  ¦:;\',_, .:;\;      '¦:;\',_,  .:;'\/.:;/`\_/`\\_, .:;'\;    ;¦   -  --;'¦;¦ .:;¦;¦   - -:;'¦ /___:;/:;/  -  -.:;'/¦;¦__''__''¦      
@@ -2467,14 +2470,14 @@ O     o   O    o  O  O  O   o     o
                         ’                                                                                            '                                          
 
 </pre>
-<b><a href="jimner/fonts/PsY2.js" alt="PsY2" target="_blank">PsY2</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/PsY2.json" alt="PsY2" target="_blank">PsY2</a></b>
 <pre>
     '|¯¯| |¯¯|   |¯¯'\/'¯¯'|    |¯¯| |¯¯|     |¯¯¯¯¯¯¯|    
  __|   '| |   '| |   '|\/|   '| |   '|,|   '|  ¯¯|   '|¯¯’ 
 \____/'   |__|   |__|  |__|     '\____ /'         '|__|’'  
 
 </pre>
-<b><a href="jimner/fonts/Puffy.js" alt="Puffy" target="_blank">Puffy</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Puffy.json" alt="Puffy" target="_blank">Puffy</a></b>
 <pre>
  _____                           _    
 (___  )  _                      ( )_  
@@ -2486,7 +2489,7 @@ O     o   O    o  O  O  O   o     o
                                       
 
 </pre>
-<b><a href="jimner/fonts/Puzzle.js" alt="Puzzle" target="_blank">Puzzle</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Puzzle.json" alt="Puzzle" target="_blank">Puzzle</a></b>
 <pre>
      _          _          _          _          _     
    _( )__     _( )__     _( )__     _( )__     _( )__  
@@ -2495,14 +2498,14 @@ O     o   O    o  O  O  O   o     o
   |_( )__|   |_( )__|   |_( )__|   |_( )__|   |_( )__| 
 
 </pre>
-<b><a href="jimner/fonts/Pyramid.js" alt="Pyramid" target="_blank">Pyramid</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Pyramid.json" alt="Pyramid" target="_blank">Pyramid</a></b>
 <pre>
   ^     ^     ^     ^     ^   
  /J\   /i\   /m\   /u\   /t\  
 <___> <___> <___> <___> <___> 
 
 </pre>
-<b><a href="jimner/fonts/Rammstein.js" alt="Rammstein" target="_blank">Rammstein</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Rammstein.json" alt="Rammstein" target="_blank">Rammstein</a></b>
 <pre>
       _____                                                   
    __|_    |__    ____     ____    __     __   _       __     
@@ -2513,7 +2516,7 @@ O     o   O    o  O  O  O   o     o
                                                               
 
 </pre>
-<b><a href="jimner/fonts/Rectangles.js" alt="Rectangles" target="_blank">Rectangles</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Rectangles.json" alt="Rectangles" target="_blank">Rectangles</a></b>
 <pre>
                                 
     __   _                 _    
@@ -2523,7 +2526,7 @@ O     o   O    o  O  O  O   o     o
                                 
 
 </pre>
-<b><a href="jimner/fonts/Reeko Font 1.js" alt="Reeko Font 1" target="_blank">Reeko Font 1</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Reeko Font 1.json" alt="Reeko Font 1" target="_blank">Reeko Font 1</a></b>
 <pre>
                           (`·.               )\                                                                                 '                                                                                          
                             )  `·.   .·´( .·´  (                                                                                '                                                                                          
@@ -2545,7 +2548,7 @@ O     o   O    o  O  O  O   o     o
           ¯¯¯¯¯                            ’'     ¯                              ’'  `*-::;/::::`*-::;/::::-·· ´´                                   ¯¯¯                      ’     ¯                                   ’'  
 
 </pre>
-<b><a href="jimner/fonts/Relief.js" alt="Relief" target="_blank">Relief</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Relief.json" alt="Relief" target="_blank">Relief</a></b>
 <pre>
 _________ _______ ___________ ___________ ___________ 
 __/~~~~\_ /~~~~\_ /~~\__/~~\_ /~~\__/~~\_ /~~~~~~~~\_ 
@@ -2556,7 +2559,7 @@ ___/~~\__ _/~~\__ /~~\__/~~\_ /~~\__/~~\_ ___/~~\____
 _________ _______ ___________ ___________ ___________ 
 
 </pre>
-<b><a href="jimner/fonts/Relief2.js" alt="Relief2" target="_blank">Relief2</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Relief2.json" alt="Relief2" target="_blank">Relief2</a></b>
 <pre>
 \\\\\\\\\ \\\\\\\ \\\\\\\\\\\ \\\\\\\\\\\ \\\\\\\\\\\ 
 \\///// \ ///// \ /// \\/// \ /// \\/// \ ///////// \ 
@@ -2567,7 +2570,7 @@ _________ _______ ___________ ___________ ___________
 \\\\\\\\\ \\\\\\\ \\\\\\\\\\\ \\\\\\\\\\\ \\\\\\\\\\\ 
 
 </pre>
-<b><a href="jimner/fonts/Reverse.js" alt="Reverse" target="_blank">Reverse</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Reverse.json" alt="Reverse" target="_blank">Reverse</a></b>
 <pre>
 ========== ==== ========== ======= ====== 
 =====    = ==== ========== ======= ====== 
@@ -2582,7 +2585,7 @@ _________ _______ ___________ ___________ ___________
 ========== ==== ========== ======= ====== 
 
 </pre>
-<b><a href="jimner/fonts/Ribbit.js" alt="Ribbit" target="_blank">Ribbit</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Ribbit.json" alt="Ribbit" target="_blank">Ribbit</a></b>
 <pre>
           '|¯¯¯¯'|     |¯¯¯¯|     |!¯¯¯¯\   /¯¯¯¯!|         |¯¯¯¯|'  |¯¯¯¯|        |¯¯¯¯¯¯¯¯¯¯|‚          
           '|:·.·.·:'|  |¯¯¯¯|     |:·.·.·:|\'\/'/|:·.·.·:|  |:·.·.·:|'  |:·.·.·:|  |___:·.·.·:___|‚       
@@ -2592,7 +2595,7 @@ _________ _______ ___________ ___________ ___________
 '\|L,__'||L,__'|/'     |L,__‚|    |L,__'|     |L,__,|       '\|L,__'||L,__'|/'          '|L,__‚|‚         
 
 </pre>
-<b><a href="jimner/fonts/Ribbit2.js" alt="Ribbit2" target="_blank">Ribbit2</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Ribbit2.json" alt="Ribbit2" target="_blank">Ribbit2</a></b>
 <pre>
  '      .·´¯.·´¦    ¦`·.¯`·.‚  ¦`·.¯`·.  ‚.·´¯.·´¦'     /¯¯/¦   ¦\¯¯\        .·´¯.·´/¯\`·.¯`·.'      
        |    |::‚¦   ¦::|    |  ¦::'|‚    \/    ‚|‚::¦' '|    |'¦   ¦'|    |' |__| ‚|    |‚ |__|‚     
@@ -2602,7 +2605,7 @@ _________ _______ ___________ ___________ ___________
  \|__||__'|'          '|__‚|    '|__'|/   \|'__'|‚'    `·‚|__||__|.·´ ‚            '|__'|‚           
 
 </pre>
-<b><a href="jimner/fonts/Ribbit3.js" alt="Ribbit3" target="_blank">Ribbit3</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Ribbit3.json" alt="Ribbit3" target="_blank">Ribbit3</a></b>
 <pre>
 '      .·´¯.·´  `·.¯`·.‚  `·.¯`·.  ‚.·´¯.·´    '/¯¯/    \¯¯\ '     .·´¯.·´/¯\`·.¯`·.‚    
       |    |‚     |    |    '|‚    \/    ‚|‚   |    |     '|    |' |__| ‚|    |‚ |__|    
@@ -2610,7 +2613,7 @@ _________ _______ ___________ ___________ ___________
 '\__\|__'|‚       |__'|    '/'__/   \__'\‚     '`·._`·..·´_.·´           '|__'|          
 
 </pre>
-<b><a href="jimner/fonts/Roman.js" alt="Roman" target="_blank">Roman</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Roman.json" alt="Roman" target="_blank">Roman</a></b>
 <pre>
    oooo   o8o                                       .    
    `888   `"'                                     .o8    
@@ -2624,14 +2627,14 @@ _________ _______ ___________ ___________ ___________
                                                          
 
 </pre>
-<b><a href="jimner/fonts/Rotated.js" alt="Rotated" target="_blank">Rotated</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Rotated.json" alt="Rotated" target="_blank">Rotated</a></b>
 <pre>
 (            __     __    _,_ 
  `--|  --o   __<   (__   ( '  
                               
 
 </pre>
-<b><a href="jimner/fonts/Rounded.js" alt="Rounded" target="_blank">Rounded</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Rounded.json" alt="Rounded" target="_blank">Rounded</a></b>
 <pre>
  _______   _                          
 (_______) (_)                    _    
@@ -2642,7 +2645,7 @@ _________ _______ ___________ ___________ ___________
                                       
 
 </pre>
-<b><a href="jimner/fonts/Rowan Cap.js" alt="Rowan Cap" target="_blank">Rowan Cap</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Rowan Cap.json" alt="Rowan Cap" target="_blank">Rowan Cap</a></b>
 <pre>
    dMMMMMP      dMP      dMMMMMMMMb     dMP dMP   dMMMMMMP  
       dMP      amr      dMP"dMP"dMP    dMP dMP      dMP     
@@ -2652,7 +2655,7 @@ VMMMP"      dMP      dMP dMP dMP     VMMMP"      dMP
                                                             
 
 </pre>
-<b><a href="jimner/fonts/Rozzo.js" alt="Rozzo" target="_blank">Rozzo</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Rozzo.json" alt="Rozzo" target="_blank">Rozzo</a></b>
 <pre>
     888  ,e,                            d8    
     888   "   888 888 8e   8888 8888   d88    
@@ -2667,7 +2670,7 @@ VMMMP"      dMP      dMP dMP dMP     VMMMP"      dMP
 'm'
 'u'
 't'
-<b><a href="jimner/fonts/Runic.js" alt="Runic" target="_blank">Runic</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Runic.json" alt="Runic" target="_blank">Runic</a></b>
 <pre>
  /      
 /       
@@ -2677,7 +2680,7 @@ VMMMP"      dMP      dMP dMP dMP     VMMMP"      dMP
     /   
 
 </pre>
-<b><a href="jimner/fonts/Runyc.js" alt="Runyc" target="_blank">Runyc</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Runyc.json" alt="Runyc" target="_blank">Runyc</a></b>
 <pre>
  /                         
 /                          
@@ -2687,7 +2690,7 @@ VMMMP"      dMP      dMP dMP dMP     VMMMP"      dMP
     /   |  |  |  | |   |   
 
 </pre>
-<b><a href="jimner/fonts/S Blood.js" alt="S Blood" target="_blank">S Blood</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/S Blood.json" alt="S Blood" target="_blank">S Blood</a></b>
 <pre>
      @@@  @@@  @@@@@@@@@@   @@@  @@@  @@@@@@@ 
      @@!  @@!  @@! @@! @@!  @@!  @@@    @@!   
@@ -2697,7 +2700,7 @@ VMMMP"      dMP      dMP dMP dMP     VMMMP"      dMP
                                               
 
 </pre>
-<b><a href="jimner/fonts/SL Script.js" alt="SL Script" target="_blank">SL Script</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/SL Script.json" alt="SL Script" target="_blank">SL Script</a></b>
 <pre>
   ___                        
  (   >                   _/_ 
@@ -2707,7 +2710,7 @@ VMMMP"      dMP      dMP dMP dMP     VMMMP"      dMP
                              
 
 </pre>
-<b><a href="jimner/fonts/Santa Clara.js" alt="Santa Clara" target="_blank">Santa Clara</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Santa Clara.json" alt="Santa Clara" target="_blank">Santa Clara</a></b>
 <pre>
     ___                        
    ( /    o                _/_ 
@@ -2717,7 +2720,7 @@ VMMMP"      dMP      dMP dMP dMP     VMMMP"      dMP
 (/                             
 
 </pre>
-<b><a href="jimner/fonts/Script.js" alt="Script" target="_blank">Script</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Script.json" alt="Script" target="_blank">Script</a></b>
 <pre>
                                         
   /\    o                               
@@ -2728,7 +2731,7 @@ VMMMP"      dMP      dMP dMP dMP     VMMMP"      dMP
    \|                                   
 
 </pre>
-<b><a href="jimner/fonts/Serifcap.js" alt="Serifcap" target="_blank">Serifcap</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Serifcap.json" alt="Serifcap" target="_blank">Serifcap</a></b>
 <pre>
    __   __   __  __   _  _   ____  
   (  ) (  ) (  \/  ) ( )( ) (_  _) 
@@ -2736,7 +2739,7 @@ VMMMP"      dMP      dMP dMP dMP     VMMMP"      dMP
 (___/  (__) (_/\/\_)  \__/   (__)  
 
 </pre>
-<b><a href="jimner/fonts/Shadow.js" alt="Shadow" target="_blank">Shadow</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Shadow.json" alt="Shadow" target="_blank">Shadow</a></b>
 <pre>
       |   _)                          |    
       |    |    __ `__ \     |   |    __|  
@@ -2745,7 +2748,7 @@ VMMMP"      dMP      dMP dMP dMP     VMMMP"      dMP
                                            
 
 </pre>
-<b><a href="jimner/fonts/Shimrod.js" alt="Shimrod" target="_blank">Shimrod</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Shimrod.json" alt="Shimrod" target="_blank">Shimrod</a></b>
 <pre>
  ,                 .    
  |  o              |    
@@ -2755,14 +2758,14 @@ VMMMP"      dMP      dMP dMP dMP     VMMMP"      dMP
                         
 
 </pre>
-<b><a href="jimner/fonts/Short.js" alt="Short" target="_blank">Short</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Short.json" alt="Short" target="_blank">Short</a></b>
 <pre>
  | . ,_     |- 
 _| | ||| L| |_ 
                
 
 </pre>
-<b><a href="jimner/fonts/Slant.js" alt="Slant" target="_blank">Slant</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Slant.json" alt="Slant" target="_blank">Slant</a></b>
 <pre>
        __     _                           __  
       / /    (_)    ____ ___    __  __   / /_ 
@@ -2772,7 +2775,7 @@ _| | ||| L| |_
                                               
 
 </pre>
-<b><a href="jimner/fonts/Slant Relief.js" alt="Slant Relief" target="_blank">Slant Relief</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Slant Relief.json" alt="Slant Relief" target="_blank">Slant Relief</a></b>
 <pre>
 ______/\\\\\\\\\\\_         _______         _____________________         _______________         _______________         
  _____\/////\\\///__         _______         _____________________         _______________         _______________        
@@ -2785,7 +2788,7 @@ ______/\\\\\\\\\\\_         _______         _____________________         ______
         __\/////////_______         _\///__         _\///___\///___\///__         __\/////////___         _____\/////____ 
 
 </pre>
-<b><a href="jimner/fonts/Slide.js" alt="Slide" target="_blank">Slide</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Slide.json" alt="Slide" target="_blank">Slide</a></b>
 <pre>
     ||  #|                    #|    
     ||       ##H H|   ## H|  ##HH|  
@@ -2795,7 +2798,7 @@ ______/\\\\\\\\\\\_         _______         _____________________         ______
                                     
 
 </pre>
-<b><a href="jimner/fonts/Small.js" alt="Small" target="_blank">Small</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Small.json" alt="Small" target="_blank">Small</a></b>
 <pre>
      _    _                     _    
   _ | |  (_)   _ __     _  _   | |_  
@@ -2804,7 +2807,7 @@ ______/\\\\\\\\\\\_         _______         _____________________         ______
                                      
 
 </pre>
-<b><a href="jimner/fonts/Small Caps.js" alt="Small Caps" target="_blank">Small Caps</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Small Caps.json" alt="Small Caps" target="_blank">Small Caps</a></b>
 <pre>
   ___     ___    _   _   _  _    _____  
  )_ _(   )_ _(  ) \_/ ( ) () (  )__ __( 
@@ -2813,7 +2816,7 @@ ______/\\\\\\\\\\\_         _______         _____________________         ______
                                         
 
 </pre>
-<b><a href="jimner/fonts/Small Isometric1.js" alt="Small Isometric1" target="_blank">Small Isometric1</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Small Isometric1.json" alt="Small Isometric1" target="_blank">Small Isometric1</a></b>
 <pre>
     ___        ___        ___        ___        ___    
    /\  \      /\  \      /\__\      /\__\      /\  \   
@@ -2824,7 +2827,7 @@ ______/\\\\\\\\\\\_         _______         _____________________         ______
               \/__/      \/__/      \/__/              
 
 </pre>
-<b><a href="jimner/fonts/Small Keyboard.js" alt="Small Keyboard" target="_blank">Small Keyboard</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Small Keyboard.json" alt="Small Keyboard" target="_blank">Small Keyboard</a></b>
 <pre>
  ____   ____   ____   ____   ____  
 ||J || ||i || ||m || ||u || ||t || 
@@ -2832,7 +2835,7 @@ ______/\\\\\\\\\\\_         _______         _____________________         ______
 |/__\| |/__\| |/__\| |/__\| |/__\| 
 
 </pre>
-<b><a href="jimner/fonts/Small Poison.js" alt="Small Poison" target="_blank">Small Poison</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Small Poison.json" alt="Small Poison" target="_blank">Small Poison</a></b>
 <pre>
                                               
     @@@  @@@  @@@@@@@@@@   @@@  @@@  @@@@@@@  
@@ -2843,7 +2846,7 @@ ______/\\\\\\\\\\\_         _______         _____________________         ______
                                               
 
 </pre>
-<b><a href="jimner/fonts/Small Script.js" alt="Small Script" target="_blank">Small Script</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Small Script.json" alt="Small Script" target="_blank">Small Script</a></b>
 <pre>
                                   
   /|   o                     _|_  
@@ -2852,7 +2855,7 @@ ______/\\\\\\\\\\\_         _______         _____________________         ______
   (|                              
 
 </pre>
-<b><a href="jimner/fonts/Small Shadow.js" alt="Small Shadow" target="_blank">Small Shadow</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Small Shadow.json" alt="Small Shadow" target="_blank">Small Shadow</a></b>
 <pre>
      |   _)                     |    
   \  |    |     ` \     |  |     _|  
@@ -2860,7 +2863,7 @@ ______/\\\\\\\\\\\_         _______         _____________________         ______
                                      
 
 </pre>
-<b><a href="jimner/fonts/Small Slant.js" alt="Small Slant" target="_blank">Small Slant</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Small Slant.json" alt="Small Slant" target="_blank">Small Slant</a></b>
 <pre>
      __    _                   __  
  __ / /   (_)   __ _   __ __  / /_ 
@@ -2869,14 +2872,14 @@ ______/\\\\\\\\\\\_         _______         _____________________         ______
                                    
 
 </pre>
-<b><a href="jimner/fonts/Small Tengwar.js" alt="Small Tengwar" target="_blank">Small Tengwar</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Small Tengwar.json" alt="Small Tengwar" target="_blank">Small Tengwar</a></b>
 <pre>
        '   _ _   ?       
 (_(_|  |  |_)_)  |  |~)  
     |               |    
 
 </pre>
-<b><a href="jimner/fonts/Soft.js" alt="Soft" target="_blank">Soft</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Soft.json" alt="Soft" target="_blank">Soft</a></b>
 <pre>
                                                  
      ,--.  ,--.                          ,--.    
@@ -2887,7 +2890,7 @@ ______/\\\\\\\\\\\_         _______         _____________________         ______
                                                  
 
 </pre>
-<b><a href="jimner/fonts/Sony.js" alt="Sony" target="_blank">Sony</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Sony.json" alt="Sony" target="_blank">Sony</a></b>
 <pre>
         '                         '‚                              ‘                                   '‚                                     
                        '   '‚                    ‘                                   °                                                       
@@ -2903,7 +2906,7 @@ ______/\\\\\\\\\\\_         _______         _____________________         ______
 '|____||_____|/ '‚           \|_____|        '|____|         |____|      '‚           '|____,|/|____|‘                  \|____|'             
 
 </pre>
-<b><a href="jimner/fonts/Speed.js" alt="Speed" target="_blank">Speed</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Speed.json" alt="Speed" target="_blank">Speed</a></b>
 <pre>
 _________ _____                        _____  
 ______  / ___(_) _______ ___  ____  __ __  /_ 
@@ -2913,7 +2916,7 @@ ___ _  /  __  /  __  __ `__ \ _  / / / _  __/
                                               
 
 </pre>
-<b><a href="jimner/fonts/Spliff.js" alt="Spliff" target="_blank">Spliff</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Spliff.json" alt="Spliff" target="_blank">Spliff</a></b>
 <pre>
   ____   ___   __  __   __ __   ____  
   \_  \ /___\ /  \/  \ /  |  \ /    \ 
@@ -2922,7 +2925,7 @@ ___ _  /  __  /  __  __ `__ \ _  / / / _  __/
                                       
 
 </pre>
-<b><a href="jimner/fonts/Stacey.js" alt="Stacey" target="_blank">Stacey</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Stacey.json" alt="Stacey" target="_blank">Stacey</a></b>
 <pre>
    ____ ____ __________ _______ ________ 
    7  7 7  7 7        7 7  7  7 7      7 
@@ -2933,7 +2936,7 @@ ___|  | |  | |  _  _  | |  |  | !__  __!
                                          
 
 </pre>
-<b><a href="jimner/fonts/Stampate.js" alt="Stampate" target="_blank">Stampate</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Stampate.json" alt="Stampate" target="_blank">Stampate</a></b>
 <pre>
 ,-_/                 .   
 '  |  .  ,-,-.  . .  |-  
@@ -2943,7 +2946,7 @@ ___|  | |  | |  _  _  | |  |  | !__  __!
 `--'                     
 
 </pre>
-<b><a href="jimner/fonts/Stampatello.js" alt="Stampatello" target="_blank">Stampatello</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Stampatello.json" alt="Stampatello" target="_blank">Stampatello</a></b>
 <pre>
 ,-_/                 .   
 '  |  .  ,-,-.  . .  |-  
@@ -2953,7 +2956,7 @@ ___|  | |  | |  _  _  | |  |  | !__  __!
 `--'                     
 
 </pre>
-<b><a href="jimner/fonts/Standard.js" alt="Standard" target="_blank">Standard</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Standard.json" alt="Standard" target="_blank">Standard</a></b>
 <pre>
       _    _                          _    
      | |  (_)   _ __ ___     _   _   | |_  
@@ -2963,7 +2966,7 @@ ___|  | |  | |  _  _  | |  |  | !__  __!
                                            
 
 </pre>
-<b><a href="jimner/fonts/Star Strips.js" alt="Star Strips" target="_blank">Star Strips</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Star Strips.json" alt="Star Strips" target="_blank">Star Strips</a></b>
 <pre>
 --------     --------     ********    ----    ----  ------------  
 ********     ********    ----------   ****    ****  ************  
@@ -2976,7 +2979,7 @@ ___|  | |  | |  _  _  | |  |  | !__  __!
                                                                   
 
 </pre>
-<b><a href="jimner/fonts/Star Wars.js" alt="Star Wars" target="_blank">Star Wars</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Star Wars.json" alt="Star Wars" target="_blank">Star Wars</a></b>
 <pre>
        __    __   .___  ___.   __    __   .___________. 
       |  |  |  |  |   \/   |  |  |  |  |  |           | 
@@ -2988,7 +2991,7 @@ ___|  | |  | |  _  _  | |  |  | !__  __!
 
 </pre>
 'i'
-<b><a href="jimner/fonts/Stellar.js" alt="Stellar" target="_blank">Stellar</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Stellar.json" alt="Stellar" target="_blank">Stellar</a></b>
 <pre>
      `..                          `..   
      `..                          `..   
@@ -3000,7 +3003,7 @@ ___|  | |  | |  _  _  | |  |  | !__  __!
                                         
 
 </pre>
-<b><a href="jimner/fonts/Stforek.js" alt="Stforek" target="_blank">Stforek</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Stforek.json" alt="Stforek" target="_blank">Stforek</a></b>
 <pre>
  __     _    __ __    _  _    _____   
 |_ \   | |  |  V  |  | || |  |_   _|  
@@ -3008,7 +3011,7 @@ ___|  | |  | |  _  _  | |  |  | !__  __!
 /___|  |_|  |_| |_|   \__/     |_|    
 
 </pre>
-<b><a href="jimner/fonts/Stick Letters.js" alt="Stick Letters" target="_blank">Stick Letters</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Stick Letters.json" alt="Stick Letters" target="_blank">Stick Letters</a></b>
 <pre>
                       ___  
    |  |   |\/|  |  |   |   
@@ -3016,7 +3019,7 @@ ___|  | |  | |  _  _  | |  |  | !__  __!
                            
 
 </pre>
-<b><a href="jimner/fonts/Stop.js" alt="Stop" target="_blank">Stop</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Stop.json" alt="Stop" target="_blank">Stop</a></b>
 <pre>
    _____   _                         
   (_____) (_)                  _     
@@ -3027,7 +3030,7 @@ ___|  | |  | |  _  _  | |  |  | !__  __!
                                      
 
 </pre>
-<b><a href="jimner/fonts/Straight.js" alt="Straight" target="_blank">Straight</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Straight.json" alt="Straight" target="_blank">Straight</a></b>
 <pre>
                       
   |  .   _        |_  
@@ -3035,7 +3038,7 @@ __)  |  |||  |_|  |_
                       
 
 </pre>
-<b><a href="jimner/fonts/Stronger Than All.js" alt="Stronger Than All" target="_blank">Stronger Than All</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Stronger Than All.json" alt="Stronger Than All" target="_blank">Stronger Than All</a></b>
 <pre>
 .________  .___  ._____.___  .____      _____._ 
 :____.   \ : __| :         | |    |___  \__ _:| 
@@ -3048,7 +3051,7 @@ __)  |  |||  |_|  |_
                                                 
 
 </pre>
-<b><a href="jimner/fonts/Sub-Zero.js" alt="Sub-Zero" target="_blank">Sub-Zero</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Sub-Zero.json" alt="Sub-Zero" target="_blank">Sub-Zero</a></b>
 <pre>
    __      __      __    __      __  __      ______   
   /\ \    /\ \    /\ "-./  \    /\ \/\ \    /\__  _\  
@@ -3058,7 +3061,7 @@ __)  |  |||  |_|  |_
                                                       
 
 </pre>
-<b><a href="jimner/fonts/Swamp Land.js" alt="Swamp Land" target="_blank">Swamp Land</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Swamp Land.json" alt="Swamp Land" target="_blank">Swamp Land</a></b>
 <pre>
  _________     ________       ___ __ __       __  __        _________   
 /________/\   /_______/\     /__//_//_/\     /_/\/_/\      /________/\  
@@ -3070,7 +3073,7 @@ __)  |  |||  |_|  |_
                                                                         
 
 </pre>
-<b><a href="jimner/fonts/Swan.js" alt="Swan" target="_blank">Swan</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Swan.json" alt="Swan" target="_blank">Swan</a></b>
 <pre>
                                 
                                 
@@ -3083,7 +3086,7 @@ __)  |  |||  |_|  |_
                                 
 
 </pre>
-<b><a href="jimner/fonts/Sweet.js" alt="Sweet" target="_blank">Sweet</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Sweet.json" alt="Sweet" target="_blank">Sweet</a></b>
 <pre>
                                                ___       
             .-.                               (   )      
@@ -3100,7 +3103,7 @@ __)  |  |||  |_|  |_
   .__.'                                                  
 
 </pre>
-<b><a href="jimner/fonts/THIS.js" alt="THIS" target="_blank">THIS</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/THIS.json" alt="THIS" target="_blank">THIS</a></b>
 <pre>
        ▄█   ▄▀▀█▀▄     ▄▀▀▄ ▄▀▄   ▄▀▀▄ ▄▀▀▄   ▄▀▀▀█▀▀▄  
  ▄▀▀▀█▀ ▐  █   █  █   █  █ ▀  █  █   █    █  █    █  ▐  
@@ -3111,7 +3114,7 @@ __)  |  |||  |_|  |_
            ▐       ▐  ▐    ▐                 ▐          
 
 </pre>
-<b><a href="jimner/fonts/TRaC.js" alt="TRaC" target="_blank">TRaC</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/TRaC.json" alt="TRaC" target="_blank">TRaC</a></b>
 <pre>
       /\           ‘                   /\‚                     /¯¯¯¯ |   /¯¯¯¯\ °                   /\ '                     /\                           
     /    \_________                  /    \‚                 /      /|  |  /  /|      |           /    \     '             /    \__________'              
@@ -3131,7 +3134,7 @@ __)  |  |||  |_|  |_
     \|/                              \|/                                                      ¯¯¯¯¯    \|/                                 \|/°           
 
 </pre>
-<b><a href="jimner/fonts/TRaC Mini.js" alt="TRaC Mini" target="_blank">TRaC Mini</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/TRaC Mini.json" alt="TRaC Mini" target="_blank">TRaC Mini</a></b>
 <pre>
         |¯¯¯|° |¯¯¯|     /¯¯\/¯ \'    |¯¯¯|_|¯¯'|  |¯¯¯¯¯¯¯|°   
 (¯¯(_/     /|  |___|   /__ (\/)__\ ‘  |\______/|   |¯¯|__|¯¯|'  
@@ -3139,14 +3142,14 @@ __)  |  |||  |_|  |_
   ¯¯¯¯¯¯'        ‘             ‘                                
 
 </pre>
-<b><a href="jimner/fonts/TRaC Tiny.js" alt="TRaC Tiny" target="_blank">TRaC Tiny</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/TRaC Tiny.json" alt="TRaC Tiny" target="_blank">TRaC Tiny</a></b>
 <pre>
        \¯¯(    (¯¯¯(      ')¯¯¯V¯¯¯(         ')¯¯¯)  ___        ________       
 (¯¯(_/___)       )___)   (___(\/)___ )‘     (___(_(___(‘       |__/)   (\__|'  
   ¯¯              °                       °                        (___')°     
        °     '             ‘                                    
 </pre>
-<b><a href="jimner/fonts/TRaC's Old School Font.js" alt="TRaC's Old School Font" target="_blank">TRaC's Old School Font</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/TRaC's Old School Font.json" alt="TRaC's Old School Font" target="_blank">TRaC's Old School Font</a></b>
 <pre>
  /¯¯¯/¯¯\    '    /¯¯¯/¯¯\                   /¯¯¯/¯¯'\ ‘              /¯¯¯/¯¯\              /¯¯¯/¯\        
  \¯¯¯\     \      \¯¯¯\     \'         /¯¯¯/¯¯\|       \'      /¯¯¯/¯¯\¯\     \ '‚        /     /    /     
@@ -3155,7 +3158,7 @@ __)  |  |||  |_|  |_
 \___\____/              \___\__/          \___\_/                  \___\___/ °               '\___\__|     
 
 </pre>
-<b><a href="jimner/fonts/Tanja.js" alt="Tanja" target="_blank">Tanja</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Tanja.json" alt="Tanja" target="_blank">Tanja</a></b>
 <pre>
 J)jjjjjj  ##                         t)    
     J)                             t)tTTT  
@@ -3167,7 +3170,7 @@ J)  jj    i)  m)  MM  MM  u)   UU    t)
                                            
 
 </pre>
-<b><a href="jimner/fonts/Tengwar.js" alt="Tengwar" target="_blank">Tengwar</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Tengwar.json" alt="Tengwar" target="_blank">Tengwar</a></b>
 <pre>
                                       dP"Yb.                
                  db                   `b   'Yb              
@@ -3181,11 +3184,11 @@ Y8   Y8   .88    88   88    8P   88       88     88     8P
            Y8.                                  .8P         
 
 </pre>
-<b><a href="jimner/fonts/Term.js" alt="Term" target="_blank">Term</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Term.json" alt="Term" target="_blank">Term</a></b>
 <pre>
 Jimut
 </pre>
-<b><a href="jimner/fonts/Test1.js" alt="Test1" target="_blank">Test1</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Test1.json" alt="Test1" target="_blank">Test1</a></b>
 <pre>
 ___________  _________  ___   ___  _____ _____  _________  
 \____/ \__/  \__/ \__/ |   \ /   | \   / \   / /__     __\ 
@@ -3193,7 +3196,7 @@ _`%%%\_/%'   _`%\_/%'_ |____|____| /___\_/___\ `%%|___|%%'
 `BBBBB'      `BBBBBBB'  `BBBBBBB'  `BBBBBBBBB'     `B'     
 
 </pre>
-<b><a href="jimner/fonts/The Edge.js" alt="The Edge" target="_blank">The Edge</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/The Edge.json" alt="The Edge" target="_blank">The Edge</a></b>
 <pre>
   ▄▄▄▄▄  ▄█  █▀▄▀█    ▄       ▄▄▄▄▀  
 ▄▀  █    ██  █ █ █     █   ▀▀▀ █     
@@ -3204,7 +3207,7 @@ _`%%%\_/%'   _`%\_/%'_ |____|____| /___\_/___\ `%%|___|%%'
                                      
 
 </pre>
-<b><a href="jimner/fonts/Thick.js" alt="Thick" target="_blank">Thick</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Thick.json" alt="Thick" target="_blank">Thick</a></b>
 <pre>
  8888  w                     w    
    8   w  8d8b.d8b.  8   8  w8ww  
@@ -3213,7 +3216,7 @@ w  8   8  8P Y8P Y8  8b d8   8
                                   
 
 </pre>
-<b><a href="jimner/fonts/Thin.js" alt="Thin" target="_blank">Thin</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Thin.json" alt="Thin" target="_blank">Thin</a></b>
 <pre>
                           
     | o             |     
@@ -3223,7 +3226,7 @@ w  8   8  8P Y8P Y8  8b d8   8
                           
 
 </pre>
-<b><a href="jimner/fonts/Thorned.js" alt="Thorned" target="_blank">Thorned</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Thorned.json" alt="Thorned" target="_blank">Thorned</a></b>
 <pre>
  ___,   ___,   , ,   ,  ,   ___,  
 ',|    ' |    |\/|   |  |  ' |    
@@ -3232,14 +3235,14 @@ w  8   8  8P Y8P Y8  8b d8   8
                                   
 
 </pre>
-<b><a href="jimner/fonts/Three Point.js" alt="Three Point" target="_blank">Three Point</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Three Point.json" alt="Three Point" target="_blank">Three Point</a></b>
 <pre>
 ~|~ .  _ _      _|_ 
 L|  | | | | |_|  |  
                     
 
 </pre>
-<b><a href="jimner/fonts/Ticks.js" alt="Ticks" target="_blank">Ticks</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Ticks.json" alt="Ticks" target="_blank">Ticks</a></b>
 <pre>
 _________/\/\_ _/\/\___ ________________ ____________ ___/\/\_____ 
 _________/\/\_ ________ _/\/\/\__/\/\___ _/\/\__/\/\_ _/\/\/\/\/\_ 
@@ -3249,7 +3252,7 @@ ___/\/\/\/\___ _/\/\/\_ _/\/\______/\/\_ ___/\/\/\/\_ ___/\/\/\___
 ______________ ________ ________________ ____________ ____________ 
 
 </pre>
-<b><a href="jimner/fonts/Ticks Slant.js" alt="Ticks Slant" target="_blank">Ticks Slant</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Ticks Slant.json" alt="Ticks Slant" target="_blank">Ticks Slant</a></b>
 <pre>
      _________/\/\_      _/\/\___      ________________      ____________      ___/\/\_____ 
     _________/\/\_      ________      _/\/\/\__/\/\___      _/\/\__/\/\_      _/\/\/\/\/\_  
@@ -3259,7 +3262,7 @@ ______________ ________ ________________ ____________ ____________
 ______________      ________      ________________      ____________      ____________      
 
 </pre>
-<b><a href="jimner/fonts/Tiles.js" alt="Tiles" target="_blank">Tiles</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Tiles.json" alt="Tiles" target="_blank">Tiles</a></b>
 <pre>
      [..                              [..   
      [..  [.                          [..   
@@ -3271,7 +3274,7 @@ ______________      ________      ________________      ____________      ______
                                             
 
 </pre>
-<b><a href="jimner/fonts/Tinker-Toy.js" alt="Tinker-Toy" target="_blank">Tinker-Toy</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Tinker-Toy.json" alt="Tinker-Toy" target="_blank">Tinker-Toy</a></b>
 <pre>
     o                   o   
     |  o                |   
@@ -3282,7 +3285,7 @@ ______________      ________      ________________      ____________      ______
                             
 
 </pre>
-<b><a href="jimner/fonts/Tombstone.js" alt="Tombstone" target="_blank">Tombstone</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Tombstone.json" alt="Tombstone" target="_blank">Tombstone</a></b>
 <pre>
   __  _  _, _  _,_  ___ 
  , |  |  |\/|  | |   |  
@@ -3291,7 +3294,7 @@ ______________      ________      ________________      ____________      ______
                         
 
 </pre>
-<b><a href="jimner/fonts/Train.js" alt="Train" target="_blank">Train</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Train.json" alt="Train" target="_blank">Train</a></b>
 <pre>
       _       _                            _      
    _ | |     (_)      _ __      _  _      | |_    
@@ -3301,7 +3304,7 @@ _|"""""|  _|"""""|  _|"""""|  _|"""""|  _|"""""|
 "`-0-0-'  "`-0-0-'  "`-0-0-'  "`-0-0-'  "`-0-0-'  
 
 </pre>
-<b><a href="jimner/fonts/Trek.js" alt="Trek" target="_blank">Trek</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Trek.json" alt="Trek" target="_blank">Trek</a></b>
 <pre>
         dBP      dBP      dBBBBBBb      dBP dBP   dBBBBBBP 
                                dBP                         
@@ -3311,7 +3314,7 @@ _|"""""|  _|"""""|  _|"""""|  _|"""""|  _|"""""|
                                                            
 
 </pre>
-<b><a href="jimner/fonts/Tsalagi.js" alt="Tsalagi" target="_blank">Tsalagi</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Tsalagi.json" alt="Tsalagi" target="_blank">Tsalagi</a></b>
 <pre>
 _____    ___    -|-              ___    
  |  \     |      |       ,  |~,  / \    
@@ -3320,7 +3323,7 @@ _____    ___    -|-              ___
 _|  \_   _|_      _|      \/     \_/    
 
 </pre>
-<b><a href="jimner/fonts/Tubular.js" alt="Tubular" target="_blank">Tubular</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Tubular.json" alt="Tubular" target="_blank">Tubular</a></b>
 <pre>
      O~~                              O~~   
      O~~  O~                          O~~   
@@ -3332,7 +3335,7 @@ O~   O~~ O~~  O~~  O~  O~~ O~~  O~~   O~~
                                             
 
 </pre>
-<b><a href="jimner/fonts/Twiggy.js" alt="Twiggy" target="_blank">Twiggy</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Twiggy.json" alt="Twiggy" target="_blank">Twiggy</a></b>
 <pre>
 *           |\¯¯\„       *     |\¯¯\       .·´¨¯¯\                  /¯¯/|     |\¯¯\           |)¯¯¯`·.__.·´¯¯¯(|' ‘          
 _          '| ;   ';    _     '| ;   ';  '/     .·|\'\/¯¯¨`·. °    ';   ';'|     | ;   ';  '.·´___.·´)     )`·.__ `·.'       
@@ -3343,7 +3346,7 @@ _          '| ;   ';    _     '| ;   ';  '/     .·|\'\/¯¯¨`·. °    ';   ';
 _'\|__||__'|‘              |__'|           \|__ '|   |___ '|/‘       '`·.|____ |.·´ '                    '|__*|              
 
 </pre>
-<b><a href="jimner/fonts/Twisted.js" alt="Twisted" target="_blank">Twisted</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Twisted.json" alt="Twisted" target="_blank">Twisted</a></b>
 <pre>
      __      __      __    __      __    __      _______    
     /_/\    /\_\    /_/\  /\_\    /\_\  /_/\   /\_______)\  
@@ -3355,14 +3358,14 @@ _'\|__||__'|‘              |__'|           \|__ '|   |___ '|/‘       '`·.|_
                                                             
 
 </pre>
-<b><a href="jimner/fonts/Two Point.js" alt="Two Point" target="_blank">Two Point</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Two Point.json" alt="Two Point" target="_blank">Two Point</a></b>
 <pre>
  | o ._ _      _|_ 
 _| | | | | |_|  |  
 
 </pre>
 'u'
-<b><a href="jimner/fonts/USA Flag.js" alt="USA Flag" target="_blank">USA Flag</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/USA Flag.json" alt="USA Flag" target="_blank">USA Flag</a></b>
 <pre>
      :::  :::  :::=======   :::==== 
      :::  :::  ::: === ===  :::==== 
@@ -3372,7 +3375,7 @@ _| | | | | |_|  |
                                     
 
 </pre>
-<b><a href="jimner/fonts/Univers.js" alt="Univers" target="_blank">Univers</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Univers.json" alt="Univers" target="_blank">Univers</a></b>
 <pre>
                                                                
         88   88                                                
@@ -3387,7 +3390,7 @@ _| | | | | |_|  |
                                                                
 
 </pre>
-<b><a href="jimner/fonts/Varsity.js" alt="Varsity" target="_blank">Varsity</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Varsity.json" alt="Varsity" target="_blank">Varsity</a></b>
 <pre>
     _____     _                                _     
    |_   _|   (_)                              / |_   
@@ -3398,7 +3401,7 @@ _| | | | | |_|  |
                                                      
 
 </pre>
-<b><a href="jimner/fonts/Wavy.js" alt="Wavy" target="_blank">Wavy</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Wavy.json" alt="Wavy" target="_blank">Wavy</a></b>
 <pre>
 ___                       
   (   o   _ _        _)_  
@@ -3406,7 +3409,7 @@ ___
                           
 
 </pre>
-<b><a href="jimner/fonts/Weird.js" alt="Weird" target="_blank">Weird</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Weird.json" alt="Weird" target="_blank">Weird</a></b>
 <pre>
                           
    |  /              /    
@@ -3416,7 +3419,7 @@ ___
                           
 
 </pre>
-<b><a href="jimner/fonts/Wet Letter.js" alt="Wet Letter" target="_blank">Wet Letter</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Wet Letter.json" alt="Wet Letter" target="_blank">Wet Letter</a></b>
 <pre>
    .-,  ,-.            .-. .-.   _______  
    | |  |(|  |\    /|  | | | |  |__   __| 
@@ -3427,7 +3430,7 @@ ___
    (_)       '-'  '-'                     
 
 </pre>
-<b><a href="jimner/fonts/Whimsy.js" alt="Whimsy" target="_blank">Whimsy</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Whimsy.json" alt="Whimsy" target="_blank">Whimsy</a></b>
 <pre>
    d8,    d8,                                   
   `8P    `8P                              d8P   
@@ -3441,11 +3444,11 @@ ___
 `?888P                                          
 
 </pre>
-<b><a href="jimner/fonts/Wow.js" alt="Wow" target="_blank">Wow</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Wow.json" alt="Wow" target="_blank">Wow</a></b>
 <pre>
 ;_][ ]][ ][\/][ ][_][ `][` 
 </pre>
-<b><a href="jimner/fonts/X-Pose.js" alt="X-Pose" target="_blank">X-Pose</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/X-Pose.json" alt="X-Pose" target="_blank">X-Pose</a></b>
 <pre>
         ____‚                ____‚              ____       ____'                ____         ____ '             ___     ___'          
        |\¯¯¯¯\              |\'¯¯¯¯'\         |\¯¯¯¯'\     |\'¯'¯¯'\‚          |\¯¯¯¯\      /¯¯¯¯/|           '/¯¯¯'\   /¯¯¯'\        
@@ -3462,7 +3465,7 @@ ___
           ‘                      ‘                     '                                             '                                
 
 </pre>
-<b><a href="jimner/fonts/X99.js" alt="X99" target="_blank">X99</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/X99.json" alt="X99" target="_blank">X99</a></b>
 <pre>
       °              _                ',:'/¯/`:,                     _             _                           ,.,        ,.,                      ,.-~·-.,__,.-::^·- .,'   ‘     
                .´/: : :/:`;          /:/_/::::/';'             ,·´/:::::'`:,   ,:´/::::'`:,'               ,·'/:::/     '/:::/';     '           /:::::::::::::::::::::::::/'; '  
@@ -3479,7 +3482,7 @@ ___
        '`'*^*'´¯    ”                    ‘                 `*´                      `'*'´                       ¯`'´¯                                     ¯               °       
 
 </pre>
-<b><a href="jimner/fonts/X992.js" alt="X992" target="_blank">X992</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/X992.json" alt="X992" target="_blank">X992</a></b>
 <pre>
              ,·´¨'`·,'           ,.-·.           ,·'´¨;.  '                        .-,             ,'´¨';'               ,  . .,  °       
             :,   .:´\           /    ;'\'        ;   ';:\           .·´¨';\        ;  ';\          ,'   ';'\'      ;'´    ,   ., _';\'    
@@ -3495,7 +3498,7 @@ ___
                                                                                                     '                        °            
 
 </pre>
-<b><a href="jimner/fonts/Zodi.js" alt="Zodi" target="_blank">Zodi</a></b>
+<b><a href="https://github.com/Jimut123/jimner/blob/master/jimner/fonts/Zodi.json" alt="Zodi" target="_blank">Zodi</a></b>
 <pre>
        '      ‚          O  ‚  ’                  ____‚          ____  ‘      '          ‘            '      
          ____°         ____         _____    /¯¯¯¯\             |\¯¯¯'\  ___'          ___  ___  __"         
