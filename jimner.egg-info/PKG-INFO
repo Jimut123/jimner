@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: jimner
-Version: 1.1
+Version: 1.2.3
 Summary: A banner generating library for UNIX, LINUX, MAC-OS and WINDOWS
 Home-page: https://github.com/Jimut123/jimner
 Author: Jimut Bahan Pal
 Author-email: jimutbahanpal@yahoo.com
 License: UNKNOWN
-Description: # JIMNER [![PyPI version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=py&type=6&v=1.0.0)](https://pypi.org/project/jimner/)
+Description: # JIMNER [![PyPI version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=py&type=6&v=1.1)](https://pypi.org/project/jimner/)
         
         
         A BANNER PROTOTYPE FOR CLI/UNIX/LINUX/WINDOWS.

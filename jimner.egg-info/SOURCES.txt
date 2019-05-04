@@ -6,7 +6,6 @@ jimner/jimner.py
 jimner.egg-info/PKG-INFO
 jimner.egg-info/SOURCES.txt
 jimner.egg-info/dependency_links.txt
-jimner.egg-info/requires.txt
 jimner.egg-info/top_level.txt
 jimner/fonts/1Row.json
 jimner/fonts/3-D.json
