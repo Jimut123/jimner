@@ -1,20 +1,19 @@
-import json
+"""
+This is the modified version of Pyfiglet, cause I didn't knew it existed ;) when I built this. This is different in the sense that it uses
+JSON data, which is very much portable, and doesn't requires REGEX operations!
+
+Author: Jimut Bahan Pal | jimutbahanpal@yahoo.com
+Dated: 5th-May-2019
+"""
+
+
 from pprint import pprint
-from selenium import webdriver
-from bs4 import BeautifulSoup
 from pathlib import Path
-from tqdm import tqdm
 import json
 import os
 
 
-
-
 class jimner:
-    """
-    This is the modified version of Pyfiglet, cause I didn't knew it existed ;) when I built this. This is different in the sense that it uses
-    JSON data, which is very much portable, and doesn't requires REGEX operations!
-    """
 
     def __init__(self):
         self.SCRIPT_DIR = os.path.dirname(__file__)

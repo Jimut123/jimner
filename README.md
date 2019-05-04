@@ -1,9 +1,9 @@
 # JIMNER
 
 
-A BANNER PROTOTYPE FOR CLI/UNIX/LINUX.
+A BANNER PROTOTYPE FOR CLI/UNIX/LINUX/WINDOWS.
 
-Better than *Pyfiglet*, because this uses JSON portable data !
+Better than `Pyfiglet`, because this uses JSON portable data !
 
 The advantage of this data is you can take this and make a API for any language!
 This is under development and final cleaning!
