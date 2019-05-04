@@ -17,7 +17,7 @@ if __name__ == "__main__":
         try:
             list_ = a.get_banner_text(font,'Jimut')
             #print(list_)
-            print("<b><a alt=\"{}\" href=\"jimner/fonts/{}.js\">{}</a></b>".format(font,font,font))
+            print("<b><a href=\"jimner/fonts/{}.js\" alt=\"{}\" target=\"_blank\">{}</a></b>".format(font,font,font))
             print("<pre>")
             a.print_actual_banner(list_)
             print("</pre>")
