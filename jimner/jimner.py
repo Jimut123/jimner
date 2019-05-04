@@ -40,7 +40,6 @@ class jimner:
     
     def print_actual_banner(self,get_list):
         # this returns the actual banner by taking the list as input
-        print(get_list)
         art_split = [art.split("\n") for art in get_list]
         zipped = zip(*art_split)
 
@@ -59,8 +58,11 @@ class jimner:
             data = json.load(f)
         for letters in get_banner_text:
             # to make the actual list containing the banner elements
-            if data[letters]!="":
-                make_list.append(data[letters])
+            try:
+                if data[letters]!="":
+                    make_list.append(data[letters])
+            except Exception as e:
+                print(e)
         #print(make_list)
         return make_list    
 
