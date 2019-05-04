@@ -1,4 +1,4 @@
-# JIMNER [![PyPI version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=py&type=6&v=1.0.0)](https://pypi.org/project/jimner/)
+# JIMNER [![PyPI version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=py&type=6&v=1.1)](https://pypi.org/project/jimner/)
 
 
 A BANNER PROTOTYPE FOR CLI/UNIX/LINUX/WINDOWS.
