@@ -1,0 +1,9 @@
+README.md
+setup.py
+jimner/__init__.py
+jimner/jimner.py
+jimner.egg-info/PKG-INFO
+jimner.egg-info/SOURCES.txt
+jimner.egg-info/dependency_links.txt
+jimner.egg-info/requires.txt
+jimner.egg-info/top_level.txt

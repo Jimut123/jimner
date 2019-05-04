@@ -15,6 +15,38 @@ Note:
 * A total of 314 fonts are present!
 
 
+## Installation
+
+```
+$ sudo pip install jimner
+```
+
+## Features
+
+```python
+>>from jimner import jimner
+>>a=jimner()
+>>a.__get_dir__()
+shows the directory/Path
+>>a.__get_all_fonts__()
+['1Row', '3-D', '3D Diagonal', '3D-ASCII', '3x5', '4Max', '5 Line Oblique', 'AMC 3 Line', 'AMC 3 Liv1', 'AMC AAA01', 'AMC Neko', 'AMC Razor', 'AMC Razor2', 'AMC Slash', 'AMC Slider', 'AMC Thin', 'AMC Tubes', 'AMC Untitled', 'ANSI Shadow', 'ASCII New Roman', 'Abraxis-Big', 'Abraxis-Small', 'Acrobatic', 'Alligator', 'Alligator2', 'Alpha', 'Alphabet', 'Arrows', 'Avatar', 'Banner', 'Banner3', 'Banner3-D', 'Banner4', 'Barbwire', 'Basic', 'Bear', 'Bell', 'Benjamin', 'Bent', 'Big', 'Big Chief', 'Big Money-ne', 'Big Money-nw', 'Big Money-se', 'Big Money-sw', 'Bigfig', 'Binary', 'Blest', 'Block', 'Blocks', 'Bloody', 'Boie', 'Boie2', 'Bolger', "Bone's Font", 'Braced', 'Bright', 'Broadway', 'Broadway KB', 'Bubble', 'Bulbhead', 'CaMiZ', 'Caligraphy', 'Caligraphy2', 'Calvin S', 'Cards', 'Catwalk', 'CeA', 'CeA2', 'Cheese', 'Chiseled', 'Chunky', 'Coinstak', 'Cola', 'Colossal', 'Computer', 'Contessa', 'Contrast', 'Cosmike', 'Crawford', 'Crawford2', 'Crazy', 'Cricket', 'Cursive', 'Cyberlarge', 'Cybermedium', 'Cybersmall', 'Cygnet', 'DANC4', 'DWhistled', 'DaiR', 'Dancing Font', 'Decimal', 'Def Leppard', 'Delta Corps Priest 1', 'Diamond', 'Diet Cola', 'Digital', 'Doh', 'Doom', 'Dot Matrix', 'Double', 'Double Shorts', 'Dr Pepper', 'Efti Chess', 'Efti Font', 'Efti Italic', 'Efti Piti', 'Efti Robot', 'Efti Wall', 'Efti Water', 'Electronic', 'Elite', 'Epic', 'Fender', 'Filter', 'Filth', 'Fire Font-k', 'Fire Font-s', 'Flipped', 'Flower Power', 'FoGG', 'Four Tops', 'Fraktur', 'Fun Face', 'Fun Faces', 'Fuzzy', 'Galactus', 'Georgi16', 'Georgia11', 'Ghost', 'Ghoulish', 'Glenyn', 'Glue', 'Goofy', 'Gothic', 'Graceful', 'Gradient', 'Graffiti', 'Greek', "HeX's Font", 'Heart Left', 'Heart Right', 'Hellfire', 'Henry 3D', 'Hex', 'Hieroglyphs', 'Hollywood', 'Horizontal Left', 'Horizontal Right', 'ICL-1900', 'Impossible', 'Invita', 'Isometric1', 'Isometric2', 'Isometric3', 'Isometric4', 'Italic', 'Ivrit', 'JS Block Letters', 'JS Bracket Letters', 'JS Capital Curves', 'JS Cursive', 'JS Stick Letters', 'Jacky', 'Jazmine', 'Jerusalem', 'Katakana', 'Kban', 'Keyboard', 'Knob', 'LCD', 'Larry 3D', 'Lean', 'Letters', 'Lil Devil', 'Line Blocks', 'Linux', 'Lockergnome', 'Madrid', 'Marquee', 'Maxfour', 'MeDi', 'Mer', 'Merlin1', 'Merlin2', 'Mike', 'Mini', 'Mirror', 'Mnemonic', 'Modular', 'Morse', 'Moscow', 'Mshebrew210', 'Muzzle', 'NScript', 'NT Greek', 'NV Script', 'Nancyj', 'Nancyj-Fancy', 'Nancyj-Underlined', 'Nipples', 'O8', 'OS2', 'Octal', 'Ogre', 'Old Banner', "Patorjk's Cheese", 'Patorjk-HeX', 'Pawp', 'Peaks', 'Peaks Slant', 'Pebbles', 'Pepper', 'Poison', 'PsY', 'PsY2', 'Puffy', 'Puzzle', 'Pyramid', 'Rammstein', 'Rectangles', 'Reeko Font 1', 'Relief', 'Relief2', 'Reverse', 'Ribbit', 'Ribbit2', 'Ribbit3', 'Roman', 'Rotated', 'Rounded', 'Rowan Cap', 'Rozzo', 'Runic', 'Runyc', 'S Blood', 'SL Script', 'Santa Clara', 'Script', 'Serifcap', 'Shadow', 'Shimrod', 'Short', 'Slant', 'Slant Relief', 'Slide', 'Small', 'Small Caps', 'Small Isometric1', 'Small Keyboard', 'Small Poison', 'Small Script', 'Small Shadow', 'Small Slant', 'Small Tengwar', 'Soft', 'Sony', 'Speed', 'Spliff', 'Stacey', 'Stampate', 'Stampatello', 'Standard', 'Star Strips', 'Star Wars', 'Stellar', 'Stforek', 'Stick Letters', 'Stop', 'Straight', 'Stronger Than All', 'Sub-Zero', 'Swamp Land', 'Swan', 'Sweet', 'THIS', 'TRaC', 'TRaC Mini', 'TRaC Tiny', "TRaC's Old School Font", 'Tanja', 'Tengwar', 'Term', 'Test1', 'The Edge', 'Thick', 'Thin', 'Thorned', 'Three Point', 'Ticks', 'Ticks Slant', 'Tiles', 'Tinker-Toy', 'Tombstone', 'Train', 'Trek', 'Tsalagi', 'Tubular', 'Twiggy', 'Twisted', 'Two Point', 'USA Flag', 'Univers', 'Varsity', 'Wavy', 'Weird', 'Wet Letter', 'Whimsy', 'Wow', 'X-Pose', 'X99', 'X992', 'Zodi']
+>>a.__font_is_present__('Zodi')
+True
+>>a.get_banner_from_text('X992','jimner')
+             ,·´¨'`·,'           ,.-·.           ,·'´¨;.  '                                ,.         ,·´'; '                    _,.,  °            ,. -  .,                  
+            :,   .:´\           /    ;'\'        ;   ';:\           .·´¨';\           ;'´*´ ,'\       ,'  ';'\°           ,.·'´  ,. ,  `;\ '      ,' ,. -  .,  `' ·,          
+            ;   :\:::\         ;    ;:::\       ;     ';:'\      .'´     ;:'\         ;    ';::\      ;  ;::'\          .´   ;´:::::\`'´ \'\      '; '·~;:::::'`,   ';\       
+           ;  ,':::\·´'       ';    ;::::;'     ;   ,  '·:;  .·´,.´';  ,'::;'        ;      '\;'      ;  ;:::;         /   ,'::\::::::\:::\:'      ;   ,':\::;:´  .·´::\'     
+,.,      .'  ,'::::;''         ;   ;::::;      ;   ;'`.    ¨,.·´::;'  ;:::;         ,'  ,'`\   \      ;  ;:::;        ;   ;:;:-·'~^ª*';\'´         ;  ·'-·'´,.-·'´:::::::';   
+;   '\   ;  ,'::::;           ';  ;'::::;      ;  ';::; \*´\:::::;  ,':::;‘         ;  ;::;'\  '\    ;  ;:::;         ;  ,.-·:*'´¨'`*´\::\ '     ;´    ':,´:::::::::::·´'     
+ \  ';',·'  ,'::::;           ;  ';:::';      ';  ,'::;   \::\;:·';  ;:::; '       ;  ;:::;  '\  '\ ,'  ;:::;'       ;   ;\::::::::::::'\;'       ';  ,    `·:;:-·'´          
+  '\    ,.'\::::;''           ';  ;::::;'     ;  ';::;     '*´  ;',·':::;‘        ,' ,'::;'     '\   ¨ ,'\::;'       ;  ;'_\_:;:: -·^*';\         ; ,':\'`:·.,  ` ·.,         
+    \¯\::::\:;' ‘              \*´\:::;‘      \´¨\::;          \¨\::::;           ;.'\::;        \`*´\::\; °         ';    ,  ,. -·:*'´:\:'\°     \·-;::\:::::'`:·-.,';       
+     '\::\;:·´'                 '\::\:;'       '\::\;            \:\;·'           \:::\'          '\:::\:' '          \`*´ ¯\:::::::::::\;' '      \::\:;'` ·:;:::::\::\'     
+       ¯       °                  `*´‘           '´¨               ¨'               \:'             `*´'‚               \:::::\;::-·^*'´            '·-·'       `' · -':::''  
+                                                                                                                          `*´¯                                                
+
+```
 
 ## Fonts
 
@@ -3518,3 +3550,6 @@ Credits :
 
 * [patorJK](http://patorjk.com/software/taag/#p=display&h=0&v=0&f=Old%20Banner&t=WISP)
 * [pyfiglet](https://github.com/pwaller/pyfiglet)
+
+Author:
+* [Jimut Bahan Pal](https://jimut123.github.io/)
