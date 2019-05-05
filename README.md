@@ -5,9 +5,12 @@ A BANNER PROTOTYPE FOR CLI/UNIX/LINUX/WINDOWS.
 
 Better than `Pyfiglet`, because this uses JSON portable data !
 
-The advantage of this data is you can take this and make a API for any language!
-This is under development and final cleaning!
-
+The main utilities are:
+* generate text banner for PATCH
+* generate text banner for Command Line Interface(CLI)
+* generate banner for almost any text, in 314 font samples!
+* For decorating programs, README or TEXT decoration
+* ASCII art
 
 
 Note: 
