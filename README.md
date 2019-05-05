@@ -3546,7 +3546,7 @@ ___
 </pre>
 
 
-Credits :
+Acknowledgements :
 
 * [patorJK](http://patorjk.com/software/taag/#p=display&h=0&v=0&f=Old%20Banner&t=WISP)
 * [pyfiglet](https://github.com/pwaller/pyfiglet)
