@@ -1,4 +1,5 @@
 # JIMNER 
+[![DOI](https://zenodo.org/badge/177633092.svg)](https://zenodo.org/badge/latestdoi/177633092)
 [![PyPI version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=py&type=6&v=1.2.3)](https://pypi.org/project/jimner/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
